@@ -1,0 +1,61 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.2+'
+    }
+}
+
+apply plugin: 'android'
+apply plugin: 'android-apt'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "19.0.3"
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 19
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    packagingOptions {
+        exclude 'META-INF/LICENSE.txt'
+    }
+}
+
+apt {
+    arguments {
+        androidManifestFile variant.processResources.manifestFile
+        resourcePackageName "com.peter.fourpicsoneword"
+    }
+}
+
+dependencies {
+    // Android Annotation
+    apt "org.androidannotations:androidannotations:3.0+"
+    compile 'org.androidannotations:androidannotations-api:3.0.+'
+
+    // Android OrmLite
+    compile 'com.j256.ormlite:ormlite-android:4.48'
+    compile 'com.j256.ormlite:ormlite-core:4.48'
+
+    // Google Guava and Apache Commons Lang
+    compile 'com.google.guava:guava:17.0'
+    compile 'org.apache.commons:commons-lang3:3.3.2'
+
+    // Card Lib
+    compile 'com.github.gabrielemariotti.cards:library:1.6.0'
+    // Picasso
+    compile 'com.squareup.picasso:picasso:2.3.1'
+
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:19.+'
+}
