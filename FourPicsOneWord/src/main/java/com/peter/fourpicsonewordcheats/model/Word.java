@@ -34,6 +34,10 @@ public class Word implements Comparable<Word> {
         return hint;
     }
 
+    public String getFileName(){
+        return "file:///android_asset/"+level+".jpg";
+    }
+
     @Override
     public int compareTo(Word another) {
         return ComparisonChain.start().compare(this.level, another.level).result();
