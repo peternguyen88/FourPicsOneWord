@@ -4,10 +4,10 @@ import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
-import android.widget.TextView;
 
 import com.peter.fourpicsoneword.R;
 
+import org.androidannotations.annotations.AfterViews;
 import org.androidannotations.annotations.EViewGroup;
 import org.androidannotations.annotations.ViewById;
 
@@ -16,6 +16,7 @@ import org.androidannotations.annotations.ViewById;
  */
 @EViewGroup(R.layout.view_card_list_item)
 public class CardView extends LinearLayout{
+
     public CardView(Context context) {
         super(context);
     }
@@ -28,12 +29,6 @@ public class CardView extends LinearLayout{
         super(context, attrs, defStyle);
     }
 
-    @ViewById(R.id.card_text_view)
-    TextView card_text_view;
-
-    public void setTitleText(String text){
-        card_text_view.setText(text);
-    }
     @ViewById(R.id.card_image_view)
     ImageView card_image_view;
 

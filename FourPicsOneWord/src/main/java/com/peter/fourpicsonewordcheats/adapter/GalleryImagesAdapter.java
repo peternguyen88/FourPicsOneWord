@@ -58,7 +58,7 @@ public class GalleryImagesAdapter extends BaseAdapter {
             cardView = CardView_.build(context);
             if (position < 20) {
                 Word word = wordList.get(position);
-                Picasso.with(context).load(word.getFileName()).skipMemoryCache().into(cardView.getCard_image_view());
+                Picasso.with(context).load(word.getFileName()).into(cardView.getCard_image_view());
             }
         } else {
             cardView = (CardView) convertView;

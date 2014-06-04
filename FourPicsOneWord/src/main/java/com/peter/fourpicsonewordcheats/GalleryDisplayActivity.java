@@ -1,12 +1,7 @@
 package com.peter.fourpicsonewordcheats;
 
-import android.app.Activity;
-import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.widget.GridView;
-import android.widget.ListView;
 
 import com.peter.fourpicsoneword.R;
 import com.peter.fourpicsonewordcheats.adapter.GalleryImagesAdapter;
@@ -29,8 +24,8 @@ public class GalleryDisplayActivity extends ActionBarActivity {
 
     @Bean
     GalleryImagesAdapter imagesAdapter;
-    @ViewById(R.id.cards_listview)
-    ListView image_gallery;
+    @ViewById(R.id.image_gallery)
+    GridView image_gallery;
 
     @AfterViews
     protected void bindAdapter(){
