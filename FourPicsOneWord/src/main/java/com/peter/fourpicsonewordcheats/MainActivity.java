@@ -2,7 +2,6 @@ package com.peter.fourpicsonewordcheats;
 
 import android.support.v7.app.ActionBarActivity;
 import android.widget.ListView;
-import android.widget.Toast;
 
 import com.nhaarman.listviewanimations.swinginadapters.prepared.ScaleInAnimationAdapter;
 import com.peter.fourpicsoneword.R;
@@ -74,7 +73,7 @@ public class MainActivity extends ActionBarActivity {
 
     @ItemClick(R.id.card_list_number_of_letters)
     protected void listItemSelect(WordListItem item) {
-        ContentProvider.curentIndex = item.getLength();
+        ContentProvider.currentIndex = item.getLength();
         GalleryDisplayActivity_.intent(this).actionBarTitle(item.getDescription()).start();
     }
 
