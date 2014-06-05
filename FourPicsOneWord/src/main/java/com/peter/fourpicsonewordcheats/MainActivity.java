@@ -35,19 +35,11 @@ public class MainActivity extends ActionBarActivity {
     @Bean
     LetterSelectAdapter letterSelectAdapter;
 
-    ScaleInAnimationAdapter scaleInAnimationAdapter;
-
     @AfterViews
     protected void bindAdapter() {
-        scaleInAnimationAdapter = new ScaleInAnimationAdapter(letterSelectAdapter);
+        ScaleInAnimationAdapter scaleInAnimationAdapter = new ScaleInAnimationAdapter(letterSelectAdapter);
         scaleInAnimationAdapter.setAbsListView(cardListView);
         cardListView.setAdapter(scaleInAnimationAdapter);
-    }
-
-    @Override
-    protected void onResume() {
-        super.onResume();
-        if (scaleInAnimationAdapter != null) scaleInAnimationAdapter.reset();
     }
 
     @AfterInject

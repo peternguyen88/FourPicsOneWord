@@ -35,4 +35,9 @@ public class CardView extends LinearLayout{
     public ImageView getCard_image_view() {
         return card_image_view;
     }
+
+    @Override
+    protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
+        super.onMeasure(widthMeasureSpec, widthMeasureSpec);
+    }
 }

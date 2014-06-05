@@ -56,13 +56,11 @@ public class GalleryImagesAdapter extends BaseAdapter {
         CardView cardView;
         if (convertView == null) {
             cardView = CardView_.build(context);
-            if (position < 20) {
-                Word word = wordList.get(position);
-                Picasso.with(context).load(word.getFileName()).into(cardView.getCard_image_view());
-            }
         } else {
             cardView = (CardView) convertView;
         }
+        Word word = wordList.get(position);
+        Picasso.with(context).load(word.getFileName()).into(cardView.getCard_image_view());
         return cardView;
     }
 }

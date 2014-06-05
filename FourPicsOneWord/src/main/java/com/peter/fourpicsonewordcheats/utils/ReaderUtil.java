@@ -1,5 +1,6 @@
 package com.peter.fourpicsonewordcheats.utils;
 
+import com.peter.fourpicsonewordcheats.constant.SystemConstant;
 import com.peter.fourpicsonewordcheats.model.Word;
 
 import org.apache.commons.lang3.StringUtils;
@@ -10,7 +11,7 @@ import org.apache.commons.lang3.StringUtils;
 public class ReaderUtil {
     public static Word readLine(String line){
         if(StringUtils.isEmpty(line)) return null;
-        String[] elements = line.split("#");
+        String[] elements = line.split(SystemConstant.RESULT_SEPARATOR);
         String level = elements[0];
         String word = elements[1];
         int length = Integer.parseInt(elements[2]);
