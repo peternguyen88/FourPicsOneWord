@@ -5,6 +5,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
 import com.peter.fourpicsonewordcheats.view.fragment.SearchByDescriptionFragment;
+import com.peter.fourpicsonewordcheats.view.fragment.SearchByLettersFragment;
 
 /**
  * Created by Peter on 6/6/2014.
@@ -21,7 +22,7 @@ public class SearchViewAdapter extends FragmentPagerAdapter {
             case 0:
                 return SearchByDescriptionFragment.instance();
             case 1:
-                return SearchByDescriptionFragment.instance();
+                return SearchByLettersFragment.instance();
             default:
                 return null;
         }

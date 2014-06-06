@@ -11,6 +11,7 @@ import com.peter.fourpicsoneword.R;
 import com.peter.fourpicsonewordcheats.adapter.GalleryImagesAdapter;
 import com.peter.fourpicsonewordcheats.adapter.SearchViewAdapter;
 import com.peter.fourpicsonewordcheats.event.SearchByDescriptionEvent;
+import com.peter.fourpicsonewordcheats.event.SearchByLettersEvent;
 import com.peter.fourpicsonewordcheats.model.Word;
 import com.peter.fourpicsonewordcheats.view.fragment.ImageViewDialogFragment;
 import com.peter.fourpicsonewordcheats.view.fragment.SearchDialogFragment;
@@ -71,6 +72,29 @@ public class GalleryDisplayActivity extends ActionBarActivity {
     @Subscribe
     public void filterByDescription(SearchByDescriptionEvent event){
         String description = event.getDescription();
+        ContentProvider.filterMode = ContentProvider.FilterMode.BY_DESCRIPTION;
+        isFilterMode = true;
         imagesAdapter.getFilter().filter(description);
+    }
+
+    @Subscribe
+    public void filterByLetters(SearchByLettersEvent event){
+        String letters = event.getLetters();
+        ContentProvider.filterMode = ContentProvider.FilterMode.BY_LETTERS;
+        isFilterMode = true;
+        imagesAdapter.getFilter().filter(letters);
+    }
+
+    private boolean isFilterMode;
+
+    @Override
+    public void onBackPressed() {
+        if(isFilterMode){
+            isFilterMode = false;
+            imagesAdapter.getFilter().filter(null);
+        }
+        else {
+            super.onBackPressed();
+        }
     }
 }

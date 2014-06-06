@@ -4,11 +4,11 @@ package com.peter.fourpicsonewordcheats.event;
  * Created by Peter on 6/6/2014.
  */
 public class SearchByDescriptionEvent {
+    private String description;
+
     public SearchByDescriptionEvent(String description) {
         this.description = description;
     }
-
-    private String description;
 
     public String getDescription() {
         return description;

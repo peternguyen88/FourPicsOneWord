@@ -73,7 +73,7 @@ public class GalleryImagesAdapter extends BaseAdapter implements Filterable{
             @Override
             protected FilterResults performFiltering(CharSequence constraint) {
                 FilterResults results = new FilterResults();
-                List<Word> filteredWords = ContentProvider.getWordListByDescription(constraint.toString());
+                List<Word> filteredWords = ContentProvider.getWordList(constraint == null ? null :constraint.toString());
 
                 results.count = filteredWords.size();
                 results.values = filteredWords;

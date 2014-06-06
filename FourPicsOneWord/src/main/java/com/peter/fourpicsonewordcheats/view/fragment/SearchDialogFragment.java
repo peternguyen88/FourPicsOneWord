@@ -9,8 +9,7 @@ import com.peter.fourpicsoneword.R;
 import com.peter.fourpicsonewordcheats.SuperCheats;
 import com.peter.fourpicsonewordcheats.adapter.SearchViewAdapter;
 import com.peter.fourpicsonewordcheats.event.SearchByDescriptionEvent;
-import com.peter.fourpicsonewordcheats.event.SearchEvent;
-import com.peter.fourpicsonewordcheats.model.Word;
+import com.peter.fourpicsonewordcheats.event.SearchByLettersEvent;
 
 import org.androidannotations.annotations.AfterInject;
 import org.androidannotations.annotations.AfterViews;
@@ -56,6 +55,11 @@ public class SearchDialogFragment extends DialogFragment{
 
     @Subscribe
     public void dismiss(SearchByDescriptionEvent event){
+        this.dismiss();
+    }
+
+    @Subscribe
+    public void dismiss(SearchByLettersEvent event){
         this.dismiss();
     }
 }

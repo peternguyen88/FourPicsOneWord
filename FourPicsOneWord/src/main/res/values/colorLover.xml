@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_aoi">#69D2E7</color>
+    <color name="color_clean_pond_water">#A7DBD8</color>
+    <color name="color_beach_storm">#E0E4CC</color>
+    <color name="color_giant_gold_fish">#F38630</color>
+    <color name="color_unreal">#FA6900</color>
+    <color name="color_deep_blue">#3C8DC5</color>
+    <color name="color_light_blue">#6FB7E9</color>
+    <color name="color_deep_gray">#B2D1E5</color>
+    <color name="color_white_gray">#E9F2F9</color>
+    <color name="color_alice_light_green">#C7E2C3</color>
+    <color name="color_alice_deep_green">#2EE0AE</color>
+    <color name="color_alice_light_brown">#E3D0A6</color>
+    <color name="color_alice_deep_brown">#664C4B</color>
+    <color name="color_alice_light_yellow">#F8F4C7</color>
+    <color name="color_alice_deep_yellow">#FFF560</color>
+</resources>
