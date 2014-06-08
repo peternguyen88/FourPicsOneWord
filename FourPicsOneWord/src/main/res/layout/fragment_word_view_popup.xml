@@ -13,7 +13,7 @@
         app:pstsIndicatorColor="#FF33B5E6"
         app:pstsShouldExpand = "true"/>
 
-    <com.peter.fourpicsonewordcheats.view.WrapContentHeightViewPager
+    <com.peter.fourpicsoneword.view.WrapContentHeightViewPager
         android:id="@+id/pager"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
