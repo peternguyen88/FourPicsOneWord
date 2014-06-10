@@ -1,5 +1,6 @@
 package com.peter.fourpicsoneword.adapter;
 
+import android.app.Activity;
 import android.content.Context;
 import android.view.View;
 import android.view.ViewGroup;
@@ -20,16 +21,19 @@ import org.androidannotations.annotations.RootContext;
 
 import java.util.List;
 
+import de.keyboardsurfer.android.widget.crouton.Crouton;
+import de.keyboardsurfer.android.widget.crouton.Style;
+
 /**
  * Created by Peter on 6/4/2014.
  */
 @EBean
-public class GalleryImagesAdapter extends BaseAdapter implements Filterable{
+public class GalleryImagesAdapter extends BaseAdapter implements Filterable {
 
     List<Word> wordList;
 
     @RootContext
-    Context context;
+    Activity context;
 
     @AfterInject
     @Background
@@ -71,10 +75,14 @@ public class GalleryImagesAdapter extends BaseAdapter implements Filterable{
             @Override
             protected FilterResults performFiltering(CharSequence constraint) {
                 FilterResults results = new FilterResults();
-                List<Word> filteredWords = ContentProvider.getWordList(constraint == null ? null :constraint.toString());
+                List<Word> filteredWords = ContentProvider.getWordList(constraint == null ? null : constraint.toString());
 
                 results.count = filteredWords.size();
                 results.values = filteredWords;
+
+                if (constraint != null)
+                    // Show Result in a Crouton for better UX
+                    Crouton.makeText(context, "Found " + wordList.size() + " Image(s)", Style.INFO).show();
                 return results;
             }
 

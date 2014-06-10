@@ -50,26 +50,6 @@ public class MainActivity extends ActionBarActivity {
         letterSelectAdapter.notifyDataSetChanged();
     }
 
-    @AfterInject
-    @Background
-    protected void loadWordList() {
-        BufferedReader reader = null;
-        try {
-            reader = new BufferedReader(new InputStreamReader(getAssets().open("result.txt")));
-            // do reading, usually loop until end of file reading
-            String mLine = reader.readLine();
-            while (mLine != null) {
-                //process line
-                Word word = ReaderUtil.readLine(mLine);
-                ContentProvider.wordMap.put(word.getLength(), word);
-                // Reading Next Line
-                mLine = reader.readLine();
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-
     @ItemClick(R.id.card_list_number_of_letters)
     protected void listItemSelect(WordListItem item) {
         ContentProvider.currentIndex = item.getLength();

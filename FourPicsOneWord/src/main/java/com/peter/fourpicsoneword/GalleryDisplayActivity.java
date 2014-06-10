@@ -21,6 +21,8 @@ import org.androidannotations.annotations.OptionsItem;
 import org.androidannotations.annotations.OptionsMenu;
 import org.androidannotations.annotations.ViewById;
 
+import de.keyboardsurfer.android.widget.crouton.Crouton;
+
 @EActivity(R.layout.activity_gallery_display)
 @OptionsMenu(R.menu.gallery_display)
 public class GalleryDisplayActivity extends ActionBarActivity {
@@ -34,6 +36,7 @@ public class GalleryDisplayActivity extends ActionBarActivity {
     protected void onDestroy() {
         super.onDestroy();
         SuperCheats.eventBus.unregister(this);
+        Crouton.clearCroutonsForActivity(this);
     }
 
     @Extra

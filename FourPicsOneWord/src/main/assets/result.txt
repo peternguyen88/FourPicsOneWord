@@ -1,1048 +1,106 @@
 0001#Dirty#5#Bride and groom playing in a puddle;Woman doing laundry;Pigs in the mud;Dirt bike
 0002#Ball#4#Soccer ball;Old fashioned photo of people dancing;Basketball;Golf
 0003#Fish#4#A fish;A boardwalk doc leading to the ocean;A fish hook;A piece of fish on a plate – maybe salmon, halibut, some sort of white fish
-0004#Water#5#Water Drops;Watering can and plant;Ocean;Shower Head
 0005#Cross#5#X-mark;First aid kit, red cross;Crosswalk;A cross
-0006#Pair#4#Two Hamburgers;Pair of Shoes;Two Ladybugs;Pair of Socks
-0007#Jump#4#High-jumper;Woman jumping;Ski jump;Man jumping in street
-0008#Date#4#Calendar date;Dates;Couple on a Date;Man thinking of woman
-0009#Children#8#Kids Jumping;Kids Drawing;Children in classroom;Kids playing
-0010#Bat#3#Flying Bat;Bats at night;Baseball Bat;Wooden Bat
-0011#Can#3#Aluminum Can;Water Bottle;Blue Container;Garbage Can
-0012#Full#4#Case full of Money;Full Glass of Beer;Full grocery cart;Full box of apples
-0013#Blue#4#Blue Skies;Woman with blue shirt;Sun in blue sky;Blue Bird
-0014#Alarm#5#Red alarm sign;Dog with alert ears;Fire Alarm;Laser beams
-0015#Pound#5#American and British Money;Tape Measure around waist;British Flag;Scale
-0016#Bill#4#Cash;Woman signing a bill;European bills;Tax bills, bills
-0017#Train#5#Train;Exercise training, weight training;Office training;To train a dog
-0018#Sweet#5#Cake pops;Cute baby;Chocolate bar;Puppy and kitten
-0019#Sign#4#To sign a paper;To sign your signature;Wooden sign;Yellow street sign
-0020#Wave#4#Child waving;Woman waving;Beach shore;Surfer riding the wave
-0021#Drink#5#Woman drinking glass of coffee;Cat drinking out of water faucet;Woman drinking water bottle;Baby drinking bottle
 0022#Round#5#Blue Earth;Baby bump;Orange planet, orange circle;Basketball
 0023#Luck#4#Four leaf clover;Lottery;Horse shoe;Roll the dice, luck of the draw
 0024#Fan#3#Soccer Fan;Fan;Brazil Fan;Woman with crazy brown hair
 0025#Cold#4#Woman in the cold;Igloo;Ice Cube;Ice Cream Cone
-0026#Hot#3#Skillet on fire;Dog with sunglasses and umbrella;Volcano;Man and woman in sauna
-0027#Sports#6#Baseball bat and ball;Tennis player;Athletic balls, sports gear;Football players
-0028#Game#4#Jenga;Chess board;Computer game;Video Game
-0029#Code#4#Bar Code;Dress Code;Lock, pad lock;Word Code, Embedded Code
 0030#Bow#3#Cross arrow;Bow and arrow;Woman taking a bow;To bow
 0031#Hard#4#Steep hill;Rock hard abs, muscle, 6-pack;Pile of rocks;Nut, hard shell
-0032#White#5#White roses;White snow, white mountain;White car;White coat
 0033#Crane#5#Crane;Construction Crane;Birds flying;Cranes in the sky
 0034#Soft#4#Fur hat;Woman with soft skin;Brown stuffed animal;Woman in bath robe
 0035#Push#4#Man pointing;Push ups;Gym, Exercise machine;Child pushing toy, playground
-0036#Row#3#Rowing;Row oars;Movie theatre row;Line, waiting line
 0037#Rope#4#Jump rope;Child playing jump rope;Construction Rope;Climbing rope
-0038#Morning#7#Cup of coffee;Couple waking up;Sunrise;Croissant, breakfast
 0039#Palm#4#Hammock on beach;Palm Trees;Palm of hand;Open faced hand
-0040#Hiphop#6#Hip hop dancer;Boombox;Eminem;Rapper
-0041#Square#6#Wooden frame;Checkered pattern;White boxes;Black and white boxes, checkered flag
 0042#High#4#Man on rooftop;Skyscrapers;Rollercoasters;Mountain tops
-0043#Tear#4#Child crying;Torn paper;Torn rope, broken rope;Crack in the ground
 0044#Yellow#6#Field of yellow floors;Bees with honey;Yellow jacket, construction worker;Yellow car
 0045#Tip#3#5 dollars;Restaurant tip;Man telling woman secret;Thumbs up
 0046#Fast#4#Fast car;MPH;Runners, Race;Cheetah
-0047#Fair#4#Scale of justice;Ferris wheel;Court room, gavel;Fair ground
 0048#Present#7#Child with red gift;Blue and silver presents;Man in business suit;Woman with arms open
 0049#Star#4#Gold Stars;Stars in the night sky;Red Carpet;VIP
 0050#Play#4#Child playing dress up;Soccer player;Comedic act, masks;Electric guitar player
 0051#Bass#4#Bass note;Bass player, cello;Instruments;Fish
-0052#Oil#3#Olive oil;Olives;Oil colors;Massage, massage oil
-0053#Park#4#Park;Woman in car;Park way, driveway;Parking lot
-0054#Rich#4#Bag of money;Gold Stars;Nice house, glass house;Luxury car
-0055#Sour#4#Lemon;Child eating lemon;Red cherries;Sour cream on baked potato
-0056#Gesture#7#Man with thumbs up;Woman making “ssh” sign;Woman making “ok” sign;Woman with hand out
 0057#Old#3#Elderly couple;Egyptian pyramids;Wood stump;Cave drawings, Native American drawings
-0058#Black#5#Black Owl;Black panther;Black jack, 13 on black;Man in black suit and umbrella, black rain
-0059#Address#7#Web address;Speaker;Blue doors, entrance;Mail box
-0060#Long#4#Woman with long legs, Stretching;Giraffe;Highway traffic;Long nails, Fake nail
 0061#Dry#3#Weeds, dry wheat;Drying vegetables;Desert;Clothes line
 0062#Trunk#5#Tree Trunk;Elephant Trunk;Dog in car trunk;Child hugging tree trunk
-0063#Rock#4#Rock Cliffs;Rock slabs;Rock artist, guitar player;Mother cradling baby
 0064#Quiet#5#To tell a secret;Person using flashlight at night;Child sleeping;Woman making “ssh” sign
-0065#Strong#6#Coffee beans and coffee cup;Body builder, Muscular man;Ant lifting log;Child lifting weights
 0066#Tie#3#Man in business suit;Knot tie, figure 8 knot;Man holding red and blue tie;Gift ribbon
 0067#Record#6#Record player;Time watch;Microphone;Vinyl, record
-0068#Collect#7#Stamp collection;Sticker collection;Shoe collection, woman with shoe boxes;Easter egg hunt, child with basket
 0069#Match#5#Lit match;Tennis player, Tennis match;Matches;Clay tennis court
 0070#Green#5#Man in green jacket;Green soccer field;Tree on the lake;Christmas tree, pine tree
 0071#Card#4#Letter, card;Ace, playing card;Credit cards;Playing cards, deck of cards
-0072#Right#5#Green arrow sign;Green check mark;Gavel, scales, law;A+ paper
 0073#Red#3#Clown;Red Pen;Red grapes;Redhead, woman with red hair
 0074#Lean#4#Woman leaning on chair;Woman leaning on chair;Lean meat, raw meat;Man leaning on tree
 0075#Book#4#Stack of boots;Hotel booking;Girl reading book on grass;Man reading book in chair
-0076#Pull#4#People pulling a rope;Woman doing pull ups, weights;Man pulling boxes;Toy wooden horse with string
-0077#Chest#5#Man exposing chest;Wooden chest;Picnic basket;Chest of woman
 0078#Slow#4#Snails on race track;Old couple with walkers;Traffic jam;Man pushing car
-0079#New#3#Refresh button;New Year;New Ipad, Present;New home
 0080#Change#6#Change for a dollar, coins;Change of tracks, different directions;Tip;To lose weight, weight change
 0081#Raw#3#Sushi, raw fish;Raw meat, uncooked meat;Raw egg;Raw cabbage
 0082#Summer#6#Beach with palm tree;Women in pool, pool raft;Dog with sunglasses and umbrella;Sun shining through trees
-0083#Net#3#Web address;Tennis net;www., net address;net, field net
 0084#Light#5#Beams of light;Light bulb;Grey light;Blonde woman, woman with light hair
-0085#Wet#3#Woman showering;Wet ground;Rain storm;Children in pool
-0086#Plenty#6#Bunch of pictures, collage;Flags;Roll of film;Crowd in concert
-0087#Pole#4#Ice caps, the North Pole;Flag poles;Woman stretching on pole;Clouds
-0088#Vacuum#6#Vacuum cleaner;Woman cleaning car;Pressure gauges;Air tight container
-0089#Sink#4#Kitchen sink;Sinking ship;Plumber;Sunk ship
-0090#Cool#4#Fashion;Ice Cubes;Boy with bike and graffiti;Cold glass of water
-0091#Trip#4#Hitchhiker;Tourists;Man carrying books;Danger on tracks sign, Don’t trip
-0092#Down#4#White feathers;Downward graph, downward slope;Feathered pillow, Down pillow;People walking down stairs
 0093#Heavy#5#Large elephant;Rats on scale;Dumbbell;Man pulling boxes
-0094#Wide#4#Wide load;Woman with arms wide open;River bend, wide stream;Boy grinning wide, teeth
 0095#Loud#4#Dog on motorcycle;Concert;Woman with megaphone;Toddler crying
-0096#Halo#4#Ring of starts;Woman with halo;Man with halo;Halo of light, lit light bulb
-0097#Paint#5#Painted wall;Child painting;Splashes of paint, splashes of color;Painted hands
 0098#Big#3#Shark;Big shoe;Boy carrying large package;Person carrying large gift
-0099#Italy#5#Coliseum;gondola;Pizza;Rome, plaza
-0100#File#4#Binders;Keyboard;MP3 file;Music file
-0101#Dot#3#Red, green, and blue dices;Dot com;Polka dot dress;Black and white dots
-0102#Bunch#5#Bouquet of flowers;Bunch of grapes;Pile of keys;Flower arrangement
-0103#Pay#3#Check book;Cash;Credit cards;To pay in line
-0104#Tent#4#Father and son in tent;Camping tent;Carnival tent;Indian tent, Tiki hut
-0105#Cup#3#Man and woman drinking coffee, mugs;Man holding gold cup, trophy;Cup size;Cupcake
 0106#Back#4#Man holding back;Woman in backless dress;Back of chair;Man looking behind him
-0107#Bark#4#Dog barking;Heart carved in tree;Black dog;Tree bark
-0108#Math#4#Chalkboard full of math;Counting game;Kids in classroom;Calculator
-0109#Deck#4#Deck of cards;Deck of cards;Boat deck;Sun deck
 0110#Seasons#7#Spring, flowers;Fall, yellow leaf;Summer, beach;Winter, couple in coats
-0111#Mix#3#Splashes of colors, rainbow;Food selection, food groups;Mix tape, Dj booth;Mixed candies, skittles
 0112#Usa#3#Statue of Liberty;Burger and friends, American food;Bald Eagle;Cash, dollars
-0113#Wreck#5#Car wreck;Plane wreck;Ship wrecked, old boat;A wreck, a mess,
-0114#Sad#3#Sad woman;Sad monkey, chimpanzee;Heart broken, a break up;Man thinking
-0115#Catch#5#Man fishing;Fishing trap, trap;Baseball player catching ball, jump;Man catching child
-0116#Crown#5#Gold Crown, King;Statue of Liberty;Tree branches;Queen of England, Woman with British flag
-0117#Snow#4#Snowy field, snow bank;Skiers, snowboarders;Winter, snow;Snowman
-0118#Clothes#7#Man with blue polo;Clothes rack;Jeans and heels;Leather purse
-0119#Zip#3#Mouth with zipper;Black zipper purse;Green and pink zippers;Apple with zipper
-0120#Kick#4#Soccer kick;Soccer player;Karate, Karate chop;Baby bump, pregnant woman
-0121#Duck#4#Brown duck;Rubber duck;Guy in red box;Girl crouching on track, Runner
 0122#Curl#4#Girl with curly red hair;Blonde woman, woman with light curly hair;Curled ribbon, gift ribbon;Roll of film
-0123#Roll#4#Roll of toilet paper;Egg rolls;Newspaper;Roll the dice
-0124#Barrel#6#Oil spill;Man shooting gun;Gun barrel;Kitten in wooden barrel
-0125#Mouse#5#Computer mouse;Computer track pad;Mouse;Mouse trap
-0126#Tree#4#Orange and green leaf;Trees in blue sky;Tree trunk;Bark
 0127#Time#4#Man with clock;2013 date;Calendar;Family, generations
-0128#Ice#3#Ice cubes;Glacier;Girl eating popsicle;Frozen, ice
-0129#Fly#3#Bald eagle flying;Two flies;Man skydiving;Zipper, open fly
 0130#Face#4#Eye, eyelashes;Teeth, smile;Nose;Ear, hand cupped over ear
-0131#Costume#7#Woman in clown costume;Dogs with sunglasses and hats;Boy at a parade;Woman wearing mask, masquerade
-0132#Balance#7#Man and woman walking on zip line, balancing;Rocks and bamboo;Scales;Woman riding bike on beach
-0133#Read#4#News, ipad, ipone;Stack of newspapers;Two girls reading a book;Mother and father reading book, story time
-0134#Minute#6#Large white clock;Yellow ducking and hatched egg;Mini person on palm of hand;Timer, stop watch
-0135#Sand#4#Pathway on beach, sandy beach;Sandy dune;Red pale, sand bucket;Sand snowman on beach
-0136#Stack#5#Pile of rocks;Father and son playing jenga;Girl holding pile of books;Smoke stacks
-0137#Coat#4#Man wearing winter jacket;Purple paint coat;Woman in fur coat;White peacock
-0138#Letter#6#Dog carrying letter;Letters of the alphabet;Envelope;Letter Y
-0139#Slice#5#Cucumber slices;Pieces of cake;Sliced bread;Lemon slices
-0140#Bake#4#Cooking;Baking;Pastry Chef;Cookie making
-0141#Pool#4#Diving board;Swimming pool;Pool table;Balls on the pool table
-0142#Arm#3#Forearm;People stretching;Woman carrying an ax;Armor
-0143#Box#3#Cardboard boxes;Boxer with red gloves;Man carrying box;Boxing match
-0144#Line#4#Start line;Woman wearing headset;Lines on piece of paper;Lines on street lanes
-0145#Narrow#6#Short ceiling;Narrow alley way, skinny corridor;Woman with small waist;Thin door, narrow entrance
-0146#Spiral#6#DNA strand;black and white spiral;spiral corridors;Thunder storm
-0147#Deep#4#Fish in the ocean;Night sky;Deep water;Woman with arms open
-0148#Weather#7#Field of sunflowers;Frozen leaf;Lightning bolts;Rain storm
-0149#Hand#4#Hand with bracelet;Man with poker hand;Watch hand;Time
-0150#Cell#4#Cell phones;Screens with shadows of people;Battery;Cells, microscopic, red cells
-0151#Shake#5#Hand shake;Smoothies, milkshakes;Mixed drink;Woman with outstretched hand
-0152#Bluff#5#Cliffs on water;Poker player;Person jumping between cliffs;Card dealer
-0153#Chin#4#Girl with hand on chin;Man doing pull ups;Smiling man with tie;Girl touching face
-0154#Iron#4#Golf club and ball;Man ironing shirts clothes;Metal silver machine;Steaming ironing board
-0155#Plan#4#To Do List: Be Better;Working documents and graphs;Chart;Man in front of blackboard
-0156#Spell#5#Witch;Voodoo Doll;Hello and alphabet;Toad frog with crown
-0157#Walk#4#Holding hands in field;Bottom of shoes walking;Walking Dalmatian dog;Runway fashion show
 0158#Car#3#Rubber tire;Steering wheel;Engine;Exhaust pipe
-0159#Suit#4#Judge’s gavel at courthouse;Man in suit and tie;Girl in black blazer;Deck of cards
-0160#Glass#5#Water pouring into a glass;A scientist working in a lab;Someone cleaning a window;Glass on the side of an office building
 0161#Punk#4#Man with a dyed Mohawk;Pale Goth with an upside down cross on his face;Anarchy Symbol painted on a wall;Girl in a punk band
-0162#Draw#4#Tied Soccer Game;Hand Drawing with a Pencil;Drawing a pistol from a hip holster;Childs drawing of a Sun with Chalk
-0163#Vowels#6#A Letter;E;I;O
-0164#Stick#5#Musical orchestra conductor;Witch with a broom;Dog and owner playing tug-of-war with a stick;Drummers / marching band
-0165#Ink#3#Ink and pen;Printer;Ink cartridges;Black in stain
 0166#France#6#Dog with wine and baguette bread;Eiffel Tower;Arc de Triumph;French flag and statue
-0167#Fall#4#Sign with person falling;Child playing in leaves;Person in air;Roller coaster
-0168#House#5#Construction man building a house;White door;A roof;Inside of home / apartment
-0169#Music#5#Girl listening to headphones;Musician conductor;DJ booth;Musical notes
-0170#Key#3#Door key;Computer keyboard;Little house with keys;Laptop keys
-0171#Shell#5#Tacos;Egg shell;Oyster with pearl;Nut with shell
-0172#Emo#3#Purple skulls;Cartoon boy crying in rain;Girl sitting on boy’s lap;Girl in black gothic dress
-0173#Germany#7#Big castle building;Big arc with columns;Beer girl;Highway
-0174#Float#5#Parade of floats;Person in cool costume;Astronauts in space;Astronaut floating above earth
-0175#Bar#3#Bars of gold;Chocolate bars;Girls drinking martinis at the bar;Bartender
 0176#Crank#5#Arm with a crank;Fuse ball table;gears;Silver box with crank
-0177#Bed#3#Wooden bed;Black bed with red pillows;Garden;Flowers
-0178#Grin#4#Man’s smile with magnifying glass;Girl smiling;Man in suit smiling;Red devil
-0179#Winter#6#Girl sneezing into tissue;Sledding in the snow;Warm cider or tea;Snowman
-0180#Beat#4#Concert;Heart line monitor;Girl punching with blue gloves;Dancing with stereo / radio / boom box
-0181#Home#4#Baseball base;House;Couple with red outline of home;Baseball home base
-0182#Choice#6#Man choosing between devil and angel;White arrows pointing in different directions;Girl with head on counter;Green check mark
-0183#Sleep#5#Man with head on laptop;Baby sleeping;Dog asleep;Girl sleeping in the grass with flowers
 0184#Hit#3#Gold record;Men fighting;Woman singing on stage;Car crash that hit tree
 0185#Produce#7#Factory;Fruits and vegetables;Vegetable heart;City skyline
-0186#Overkill#8#Hammer;Power strip with a bunch of plugs and cords;Little girl making a mess;A lot of traffic signs
 0187#Charm#5#Four leaf clover;Woman with brown hair model jewelry;Piggy bank with clover;Girl with blond hair
-0188#Ace#3#Tennis court;Tennis ball on fire;Black clubs;Deck of card with aces
-0189#Rule#4#Dictator statue ruler;Authoritative man;Unfair with un crossed out;Dog with ruler tape measure in mouth
 0190#Burnout#7#Bunch of matches, one burned;Man stressing out at work desk;Motorcycle;Asleep on top of books studying
-0191#Capture#7#Handcuffed person;Person shooting picture with camera;Handcuffs;Mouse trap
-0192#Clutch#6#Gold purse bag;Clutch of car;Group of friends;Kid hanging onto someone’s leg
-0193#Perform#7#Doctors surgeons operating on patient in hospital;Person in funny ears costume;Scientist doing study in a lab;Woman singing on stage with spotlight
-0194#Grain#5#Wooden plank;Sand falling;Whole grains;Salt
-0195#Torch#5#Scary monster zombie with fire torch;Shadow of man running;Fire pit burning;A lit match
-0196#Receiver#8#Girl holding box gift with red bow;Red telephone;Black cable box;Football player
-0197#Ram#3#A ram animal with big horns;Car crash;Sheep looking animal;Computer chip
-0198#Capital#7#Capital letter B;Government building;Paris Eiffel Tower;News letter blocks
-0199#Score#5#Green pencil with hands;Musical notes;Old stone etchings;Basketball going into hoop
-0200#Load#4#Girl holding heavy box;Hourglass;Trunk of car;Man loading gun
-0201#Rally#5#Car driving in the dirt sand dunes;Racing car;People holding up signs;Crowd of people
-0202#Monitor#7#Security;Heart monitor in hospital;Apple Mac computer screen;Airport
-0203#Spot#4#Binoculars;Couple pointing to something;Stage spot light;Girl popping pimple
-0204#Seal#4#Wooden stamp;Black paint;A seal;Red wax stamp
-0205#Leaves#6#Green leaves from three;Person with suitcases;Train;Green wall with arrow pointing to door
-0206#Lift#4#Wooden mannequin dolls;Man picking up cardboard box;Penguin lifting weights;Man lifting woman over shoulder
-0207#Stuff#5#Packing suitcase;Dirty dishes;Turkey;Boy eating pasta
-0208#Flash#5#Lightning cartoon;Lightening bolt;Camera;Thunder storm
-0209#Coach#5#Drawing lines of a court;Horse and carriage;Train;Bus
-0210#Grand#5#The Grand Canyon;Hotel concierges;Airplane view;Grand piano
-0211#Chain#5#Bicycle gears;Dominos;Girl with chain bracelet;Three kids in a field
-0212#Pipe#4#Construction site;Metal pipe;Silver tubes;Smoking pipe
 0213#Crash#5#Hammer on computer screen;Car crash;Cars crashing;Drummer of band
-0214#Goal#4#Soccer goal;Hockey goal;Green check mark;Measuring waist
-0215#Bridge#6#Dentures teeth;Elderly old couple playing game;Bridge over water;Picture of a bridge
-0216#Course#6#Golf course;Meal dinner lunch dessert;Classroom;People on computer
 0217#Bust#4#Face of statue;Men in navy blue coats;Girl on side of road;Woman’s breast boobs in bra
-0218#Butt#4#Goats ramming each other’s heads;The behind of a man in jeans with a mallet;Girl pinching man’s ass;Glass bottles with cigarette butts
-0219#Law#3#Gavel and scale;White 8-like designs;Green chalkboard;Silver balls
-0220#Player#6#Little girl playing a game;CD disc;Baseball;Man in leather jacket with a bunch of women
-0221#Fit#3#Old elderly couple working out;Man trying on shoes;Exercise;Girl eating grapes
-0222#Meter#5#Numbers;Car meter;Yellow tape measure;Monitor
-0223#Block#5#Kid and mom playing with toys;Block of cheese;Karate;Tall building
-0224#Links#5#Screen of connected dots;Broken chain;Cuff links;Web browser URL hyperlink
-0225#Shape#5#Girl running;Picture frames;Triangle ruler;Clay pot
-0226#Chip#4#Poker / gambling chip;Computer chip;Cracked glass screen;Chips with dip and pepper
-0227#State#5#Globe earth world with pins on it;Science test tubes;United States of America;Ice cube
-0228#Stage#5#Sunset;Weeks of growth of embryo baby;Stage with spot lights;Red curtain stage
-0229#Sole#4#Kicking soccer ball;Fish;Bottom of shoe;Feet on desk
-0230#Tap#3#Tapping on mores code signal tapper machine;Dancing in black tap shoes;Message signal code machine;Faucet tap with water dripping
-0231#Fire#4#Someone getting fired by their boss;Line of fire;Firefighter;Holding a gun
-0232#Pick#4#Girl picking nose;Pick axe;Picking out a shirt;Cartoon picking at ice block
-0233#Screen#6#Folding convertible wall;Shopping for TVs computers;Laptop screen;Straining powder to cook / bake
-0234#Dictate#7#Army military man;Woman and man at work;People working;Blonde girl with voice recorder
-0235#Club#4#Girls dancing at the club;Crowd of people;Golf club;Team huddling in red
-0236#Powder#6#Gray powder;Girl putting on makeup / blush;White powder;Cinnamon
-0237#Jack#4#Car jack;Jack of hearts card;Car jack;Jack of clubs
-0238#Grill#5#Steak on the grill;Man pointing at woman;Grill of car;Cooking
-0239#Space#5#Computer keyboard;Outer space with planets;Red stick figure in the middle of a lot of blue stick figures;Big parking lot and storage building
 0240#Edge#4#Razor blade;Knife;Man in yellow construction hat;Rock climbing on edge of cliff
-0241#Pinch#5#Pinching fat on stomach;Girl with purse;A pinch of salt;Pinching cheeks
-0242#Cast#4#Holding paper;Broken arm in plaster cast;Fishing;Black Swan like ballerina dancers
-0243#Scoop#5#Ice cream;Sorbet;Newspaper;Dog picking up poop
 0244#Amp#3#Guitar amp;Electric guitar;Speakers;Music dials machine
-0245#Hold#4#Girl with glass of water;Holding hands;Holding baby;On hold on phone
-0246#Flush#5#Hand of cards red hearts;Toilet;Cartoon bunnies;Money going down drain
-0247#Assemble#8#Green sign with people and arrows;Man putting together something;Car factory;Team in a huddle
-0248#Drain#5#Emptiness;Medical machinery;Faucet drain;Shower drain
-0249#Charge#6#Batteries;Paying on line at cash register;Signing for credit card;Phone charger
-0250#Check#5#Checking results;Signing a check;Chess pieces;Green check mark
-0251#Plug#4#Drain;Red puzzle piece;Listening to headphones;Electrical plug
-0252#Shoot#5#Bow and arrow;Shadow of photographer with camera;Sling shot;Boy playing soccer
-0253#Spray#5#Snot spraying out of nose;Ocean waves crashing on the beach;Skunk;Man painting
-0254#Open#4#Man with arms spread at the ocean water;Tennis court;Open water;Opening can
-0255#Track#5#Train tracks;Footprints in sand;Running track race;Boot marks
 0256#Factory#7#Beer bottles;Smoke/pollution clouds;Machines;Hollywood road sign
-0257#Wind#4#Woman in white with blanket swaying in wind;Wind up crank;Little baby playing;Wind power windmills
-0258#Lace#4#Shoe laces;Brown leather shoes;Red lace;Lace up
-0259#Stamp#5#Stamps;Hand stamping;Foot prints;Purple stamp
-0260#Service#7#Hotel service people;Church or temple or religious type service;Dishes;Military army
-0261#Conflict#8#Man deciding between devil and angel;Girl thinking on blackboard;Army military;Cartoon arguing
-0262#Smoke#5#Pollution;Smoked salmon;Fire;Smoking cigarette
-0263#Carrier#7#Battleship and plane;Bird holding letter;Mosquito bug;Bag of groceries vegetables
-0264#Blood#5#Red drops of blog;Vampire;Mosquito bug;Drawing giving blood
-0265#Lead#4#Pencil;Car driving;Back of woman’s hat;Hiking in the snow mountains
-0266#Degrees#7#Protractor;Graduation caps;Compass like meter;Thermometer
-0267#Rage#4#Woman with curlers in hair;Man with ears steaming;Girl holding polka dot shoes;Woman screaming with crazy hair
-0268#Negative#8#Thumbs down;Urine cup;Girl with hand on forehead;Film strip
 0269#Muscle#6#Man in tank top lifting weights;Muscles the food;Men in black suits and top hat;Hulk Hogan looking man
-0270#Indicate#8#Color meter with squares and boxes of different colors;Person in pink pointing;Car light indicators;Back lights and head lights of cars
-0271#Strike#6#Bowling pins;People holding signs in protest;Boy punching;Airplane
-0272#Stroke#6#Man playing tennis;Red hair;Blue paint;Black paint lines
-0273#Cradle#6#Black telephone;Night landscape with little tent;Silver balls and one red ball;Baby crib
-0274#Action#6#Bicycles cycling;Movie snapper clapper board;James Bond like man holding two guns;Person running through water
-0275#Tag#3#Tag on denim jeans;Red sale label;Bunch of people playing running in the park;Discount tags % off
-0276#Pedal#5#Silver machine;Piano pedal;Sewing machine;Boy learning to ride a bike
-0277#Album#5#CD case;Photo album;Music album cover;Women looking at photos
-0278#Press#5#Person with clipboard and microphone;Stereo buttons;Printing press;A well
-0279#Blubber#7#Seal;Raw meat;Girl crying;Baby crying
-0280#Upset#5#Yelling at computer laptop;Hockey;Boxing match man on floor;Frustrated working
-0281#Counter#7#Man at counter;Basketball court;Man at airport;Numbers on meter
 0282#Takeout#7#Asian Chinese noodles;Shirtless boy’s back;Couple out to dinner drinking wine;Boy taking notebook out of backpack
-0283#Silence#7#Man in white mask;Zipper lips;Two women saying shh;ON AIR
-0284#Brood#5#Two little boys;Baby chicken chicks;Hen laying eggs;Worried girl cartoon
-0285#Ring#4#Engagement diamond ring;Woman on phone;Girl talking on phone;Wedding bands
-0286#Deal#4#House with key;Shaking hands;Man sitting cross legged in chair;Shuffling deck of cards
-0287#Pop#3#Red balloon;Popping champagne bottles;Soda pop;Boy man singing into microphone
-0288#Credit#6#The End on a stage in front of curtains;Gambling slot machine;Loan Application;Pen and coins change
-0289#Prize#5#Trophy with a 1 on it;Award that says Best;Hands lifting up gold trophy;Holding up medal award
-0290#Tease#5#Girl with blonde hair with comb teasing;Little kids teasing each other;Women launching;Hair caught in a knot together
 0291#Strain#6#Man lifting weights;Stand of something;Pink petri science dish;Straining pasta
-0292#Joint#5#Wooden mannequin doll;Hands;Hand;Knee
-0293#Murder#6#White cartoons strangling killing each other;Dead woman in office;Dying tree;Murder scene with caution tape
-0294#Novel#5#Reading with flashlight;Reading with family;Man reading with light coming from book;Crumbled paper and light bulb
-0295#Private#7#Girl whispering in boys ear a secret;Blue lockers all locked up;Lips zipped with zipper;Black gate
-0296#Divine#6#Glowing holy cross;Purple Buddha;Magic ball;Wishing bone
-0297#Monarch#7#Black and white painting;Butterfly;Butterflies;Queen
-0298#Clock#5#Clock tower;Dandelion;Stop watch;Wrist watch
-0299#Dull#4#Bored woman;Math +1=3;Boy with party hat looking sad;Straight smiley face
-0300#Socket#6#Shoulder;Electrical outlet plug;Skeleton;Blue eye
 0301#Dominate#8#Girl in red leather on top of man;Horses;Running past the finish line;Woman sitting on man
-0302#Strand#6#A stranded boat on a deserted island;DNA;Close up of woman’s face;Message in a bottle in the sand at the beach
 0303#Mantle#6#Boy dressed as super hero in cape;Center of earth;Fireplace;Girl trying on coat
-0304#Snap#4#Girl pulling hair;Snapping cigarette looking thing;Snapping fingers;Boy looking surprised with hands to face
-0305#Dream#5#Girl sleeping;Couple dreaming of house home;Martin Luther King Jr Statue;Girl with thinking bubble
-0306#Medium#6#Film strips;Man in black;Labels with sizes XXL XL L M S XS;Piece of steak meat
-0307#Spikes#6#Snowy mountain;Rocks and wooden poles;Bottom of running shoes;Hedgehog
-0308#Premiere#8#Red carpet;Red gown dress;Chalk board and clapping hands;Microphones and red tie
-0309#Strip#5#Airplane landing;Ocean and beach;Man stripper giving lady strip tease;White strips of paper
-0310#Bellows#7#Old photo camera;Man holding his ears yelling screaming;Xylophone;Air pumper
-0311#Sewer#5#Sewing machine;Pipes;Sewage pipes;Woman with scissors
 0312#Sharp#5#Razor blade;Eye glasses;Shaving with a lot of shaving cream;Knives
-0313#Traffic#7#Green traffic light;Man in suit passing paper;Cars on the road;Traffic jam on the highway street
-0314#Wound#5#Bandage;Bloody finger with blood;Scratch on hand;Cut on foot with band aid
-0315#Heart#5#Medical equipment – defibulator;Artichoke;Human organ/heart;Card with red hear suit
-0316#Basic#5#1+1=2 Math Equation;Girl with boring breakfast;Study material and work;Color wheel test
-0317#Sweeten#7#Tea cup;Sugar in coffee;Honey on spoon;Jar of honey
-0318#Guide#5#Man with sunglasses;Meeting;Hiking in the snow;Three camper guides
-0319#Couple#6#Couple in pink blanket;Two gold wedding rings;Elderly old couple;White contraption thingy
-0320#Effects#7#Stage with pink and yellow lights;Red sparkles;Blue soccer ball;Light show
 0321#Scavenge#8#Hyena animal;People looking through pile of trash;Dumpster;Junk yard
-0322#Rose#4#Pink flower;Red line trending upward;Red roses;Bar graph
-0323#Converse#8#Red sneakers shoes;People communicating through metal cans;Couple talking in white;Girl with braided hair on the phone
-0324#Window#6#Horse stable;Glass windows;Cleaning windows;Glass door
-0325#Mother#6#mother with son;mother ducks;mother lion;pregnant woman
-0326#Island#6#blue sky;beach with sailboat and palm tree;island and water;mountains and ocean
-0327#Beans#5#pinto beans;green beans;coffee beans;beans
-0328#Fruit#5#baby eating banana;woman holding apple;fruit juice;pineapples
-0329#Gift#4#red gift box;children opening gift;woman holding gift;man holding gift
-0330#Hero#4#kid with cape;kid superhero;green super hero;man on horse
-0331#Bicycle#7#cleaning bicycle;bicycle seat;bike lock;bike horn
-0332#Wine#4#purple grapes;red grapes;wine bottle;cork
-0333#Party#5#kids at party;glass of wine;teenagers partying;adults dancing
-0334#Pink#4#pink rose;pink unicorn;baby with pink hat;pink slippers
-0335#Sword#5#robot with light saber;man with sword and gun;man with sword;man holding sword
 0336#Sausage#7#dip;sausage;sausage;sausage rolled up
 0337#Brain#5#brain;brain on treadmill;human brain;brain activity
-0338#Airport#7#man checking in at airport;airplane at gate;airport terminal;airplane taking off
-0339#Cry#3#man crying;baby crying;woman crying;baby crying
-0340#Kiss#4#boy kidding girl;red lips;couple kissing;girl kissing guys cheek
 0341#Ghost#5#ghost;ghost in forest;cartoon ghost;human hands
 0342#Pilot#5#pilot hat;pilot in cockpit;pilot uniform;pilots in cockpit
 0343#Diving#6#man wearing scuba diving mask;baby under water;swimming underwater;swimming in ocean
 0344#Animal#6#cat and dog;squirrel;elephant;lambs
-0345#Snore#5#man snoring;man sleeping;man snoring;elephant snoring
-0346#Stink#5#man sniffing armpit;skunk;girl holding nose;dog smelling
-0347#Tooth#5#mouth missing a tooth;toothbrush;tooth fairy;toothpaste
 0348#Father#6#man holding son;man sleeping next to son;father and son brushing teeth;son on fathers shoulders on beach
-0349#Bowling#7#bowling shoes;bowling balls;bowling ball knocking down pin;man bowling
-0350#Chair#5#chair;green chair;girl on chair;chairs stacked up
 0351#Zombie#6#green zombie;big eye zombie;three zombies;walking zombie
-0352#Japan#5#sushi;mountain;peace sign red dot;Japanese woman
-0353#Ruin#4#temple ruin;grass and building;construction ruin;room in ruins
-0354#Repair#6#mechanic in garage;grey tape;repair tools;man holding broken glass
-0355#Meditate#8#meditation statue;meditation statue face;woman meditating;hands in meditation
 0356#Foam#4#woman in bubble bath;foam in hair;foamy soap;foamy bog
-0357#Skin#4#woman face skin;skin;cream on body;stomach skin
-0358#Hippie#6#hippie protesting;hippies;peace;flowers
-0359#Bitter#6#man spilling;grapefruit;water with lemon;woman spitting out
-0360#Frost#5#snow tire;snow on leaf;ice and water;snowflake
-0361#Funny#5#laughing in room;woman with funny face;laughing in movie theater;clown
-0362#Vampire#7#girls dressed as vampires;Dracula;cartoon bat;bat
-0363#Night#5#girl on moon;night light;sleepy dog;moon
-0364#Vacation#8#people on vacation;people skiing;man on cliff;guy looking at map
-0365#Grimace#7#child with hands on face;girl grimacing;big glasses girl;girl making face
-0366#Gambling#8#four aces;roulette;slots;man in Vegas
-0367#Mint#4#mint leaves;mints;mint tea;mint toothpaste
-0368#Driver#6#woman in car;bus driver;limo driver;man driving
-0369#Warm#4#girls hugging;dog with scarf;rainbow socks;warm cup
-0370#Geometry#8#geometric shapes;protractor;shapes;squares and triangle
-0371#Poison#6#poison mushroom;poison;skull and crossbones;scorpion
-0372#Poker#5#poker chips;straight flush;four aces;men playing poker
-0373#Salty#5#salt water;salt;fish;potato chips
-0374#Souvenir#8#Russian doll;kid on beach;shoes;Eiffel tower souvenir
-0375#Rate#4#percent sign;up and down stocks;percent in house;house and money
-0376#Stop#4#stop red hand;hands;train subway map;bus stop
-0377#Color#5#rainbow hands;orange red purple;hair color;yellow purple blue
-0378#Patch#5#ink patch;eye patch;band aid;man sweeping ground
-0379#Print#5#alphabet;newspaper;yellow purple blue;paper on rolls
-0380#Bubble#6#woman blowing bubbles;monkey;blue bubble;thought bubbles
-0381#Title#5#queen;knight;daily news;belt
-0382#Security#8#security camera;security guard;hands in bubble;police
-0383#Bait#4#bait house;fish bait;mouse trap;bait
-0384#Panel#5#music panel;smiling people;door panel;window panel
-0385#Crumble#7#sliced apple;crumbling brick wall;bread;crumble ground
-0386#Trash#5#trash;garbage dumb;trash can;tractor
-0387#Nirvana#7#girl on water;statue in water;thirty;woman meditating
-0388#Staple#6#stapler;gold;surgeons;staples
-0389#Precious#8#treasure chest;gold chains;baby;previous gems
-0390#Stretch#7#railroad;stretch gloves;exercise stretching;water
-0391#Breeze#6#clothes line;woman on beach;wind;girl in grass
-0392#Bookmark#8#web browser;blue links;bookmark;book
-0393#Transit#7#train tunnel;tunnel;bus;van
-0394#Vision#6#glasses;globe;green eye;blue eye
-0395#Stories#7#typewriter;book;elevator;whisper
-0396#Look#4#glasses;eye;woman in white hat;clothesline
-0397#Meal#4#wine glass;worms;food;people at dinner
-0398#Transfer#8#wireless Bluetooth;handcuffs;bus;printer
-0399#Save#4#soccer player;pig;mouse icon;mouse click
-0400#Tile#4#blue;dominos;white rod;alphabet tiles
-0401#Solo#4#saxophone;guitar;airplane;man on bench
-0402#Label#5#jeans;record;sale;labels
-0403#Late#4#woman with clock;man pointing to arm;feet;waiting for train
-0404#Breach#6#waves;whale;rocks;white boxes
-0405#Grace#5#woman with foot up;dancing girl;ballerina;swan
-0406#Grade#5#graduation hat;hats in the air;binder;success
 0407#Campaign#8#red blur;troops;new;marketing
-0408#Brave#5#firefighter;man in armor;lion;concert
-0409#Stubble#7#man shaving;lips;lipstick;older man
-0410#Reaction#8#sign;allergic reaction;people watching science;chemical reaction
-0411#Combine#7#puzzle;handbag;chemicals;eggs
-0412#Jockey#6#man on horse;man in black;green blue man reaching;horse
-0413#Spring#6#rocks;grass purple sky;slinky;running shoes
-0414#Copy#4#teeth mold;cursive writing;2 men shaving;copy machine
-0415#Courage#7#solider;man in sky;cat;man on tightrope
-0416#Tumbler#7#ice water;on off switch;ballerina;foam in cup
-0417#Cross#5#Swiss flag;blonde hair;angry face;crossing the street
-0418#Spit#4#green balloons;rainbow flag;baby spitting up;highway and sky
 0419#Crash#5#airplane down;up and down graph;car crash;earth and meteor
-0420#Blank#5#Four pieces of blank paper;A white piece of paper;Girl holding up paper;Empty white thought bubble
-0421#Flat#4#Modern, white flat house;Green flat plain;Pair of green flats;Man holding white computer screen
-0422#Pocket#6#Pocket watch;Swiss army knife;Wallet in jeans pocket;Woman holding book
 0423#Round#5#4 round clocks;Men drinking beer at a bar;Round ball of different flags;Boxing match
-0424#Empty#5#Empty stage, wooden floor;Empty red seats in a theatre;Restaurant table set up;Empty cage with white feather
-0425#College#7#Students throwing graduation hats in the air;Guy wearing backpack and carrying book;Girl sitting in lecture hall;Pile of books
-0426#Knot#4#Man holding two different colored ties;Boat at sea;Girl with a brunette bun;Hair knot
-0427#Smell#5#Man with clothes pin on nose;Man looking down;Little girl smelling large sunflower;Girl spraying perfume
-0428#Piece#5#Two large white puzzle pieces;Pieces of chocolate;Slice of white cake;Pizza slices
-0429#Travel#6#Departure and arrival screen at the airport;Man and woman looking at map;Globe surrounding by famous landmarks;World lit up with connecting lights and lines
-0430#Ancient#7#Old drawings of the world;Old, worn books;Egyptian pyramids;The Coliseum in Rome
-0431#Under#5#Man repairing the underneath of his car;Red and white polka dot bra;Map of underneath the Equator;Highway underpass
-0432#Beam#4#Lighthouse;Danger sign with red beam;Girl reading with flashlight;Forest clearing with sun shining through
-0433#Crowd#5#Group of people walking;Paparazzi and photographers;A crowded city street;A concert crowd
-0434#Fizzy#5#Cup of water with white tablet fizz;Coke bottle;Glass of water;Blue water bubbles
-0435#Trendy#6#Girl wearing blue sunglasses and a flower crown;Man with a semi-mohawk and jelled hair;Girl holding black and white polka dot heels;Guy wearing sunglasses and a hooding making hand signs
-0436#Politics#8#Flags of different countries;Red X mark, selection;Ballot box;Man speaking to reporters and press
-0437#Reflect#7#Snowboarding and skiing goggles with reflection of mountains;Clouds reflected on blue lake;Pink Floyd;Triangle with rainbow stream
-0438#Science#7#DNA strands;Scientist in lab;Different colored chemical compounds;Microscope
-0439#Enjoy#5#Girl in sauna wearing head towel;Girl eating chocolate bar;Girl smiling in field of flowers;Woman getting a massage
-0440#Break#5#Crack in floor or windshield;Guy break dancing;Thief or robber breaking into a house;Older woman taking a break on a lawn chair
-0441#Uniform#7#Group of nurses and doctors;Men in military uniform;Lady in uniform;Woman flight attendant speaking to man with ipad
-0442#Scared#6#Girl with pig tails looking scared;Boy with red glasses hiding behind table;Man in piles of paper;Yellow smiley face looking scared
-0443#Tank#4#Silver vessels;Large silver container or tank;Fish tank;Military vehicle
-0444#Volume#6#Speaker volume;Stereo adjustments and knobs;Control levels;Speakers and sound system
-0445#Office#6#Colored paper clips and stapler;Girl using the copy machine;Group of people in an office meeting;Girl answering the phone and taking notes in the office
-0446#Cotton#6#Blue and green polka dot sheets;Girl wearing white t-shirt;Pile of blue jeans;Cotton balls
-0447#Glamour#7#Woman wearing elegant red dress walking down stair case;Gold studded lips;Woman wearing green mask with feathers;Girl in white dress surrounded by paparazzi
-0448#Opera#5#Violin with sheets of music;Music sheets;Opera stage and theatre;White masquerade mask
-0449#Connect#7#Group of hands connected to each other;Wooden figures holding string and cup;White and green bar graph;Zip file and zipper
-0450#Highrise#8#White apartment building;Skyscraper;Tall building in the city, high-rise;New York and downtown
-0451#Collapse#8#Beams of fire and gas destroying Paris;Broken stool chair;Destroyed building;Woman collapsed on the ground
-0452#Even#4#Coin toss;Concrete floor;The Number 2;Green liquid in scale
-0453#Wheel#5#Wooden wagon wheels;Red scooter;Car tires;Bicycle wheel
-0454#Entrance#8#Beam of light in between doors;Red curtains on stage;Blue ticket stub;Black and white spinning wheel
-0455#Thread#6#Red string or yarn;E-mail on cell phone;Text message thread;Spider web
-0456#Occasion#8#Women celebrating drinking white wine;Red and gold fireworks;Birthday cake;Happy Anniversary
-0457#Publish#7#Publishing warehouse;Stack of books;Newspaper;Stack of newspapers
-0458#Farmer#6#Farmer in wheat field;Indigenous farmer;Man planting in garden;Child with livestock
-0459#Module#6#Red cube surrounded by white cubes;English, Math and Music on chalkboard;Satellite;Red computer chip
-0460#Emerge#6#Tadpoles and frogs;Tank in the ocean;Yellow flower in the concrete;Eggs and a hatched baby bird
-0461#Magic#5#Red curtain and white glove;Blue and purple lights and stars;Girl blowing butterflies;Rabbit in a hat
-0462#Tool#4#Power drill;Tools;Wrench;Hammer and nail
-0463#Touch#5#Baby hand and parent’s hand;Football player on field;Touch screen devices and tablets;Fingers touching each other
-0464#Recipe#6#Ingredients with a piece of paper;Recipe book and spoon;Man drawing on white board;Eggs and milk
-0465#Treble#6#Musical notes;Lottery machine;Red green and yellow pie graph;Sound controls
-0466#Company#7#People in the office having a meeting;Military and army uniforms;Old men laughing and smiling;Blue people
-0467#Comment#7#Tribal figurine with thought bubble;Newspaper;Microphone;Comment button on keyboard
-0468#Register#8#Umerus clausus;File cabinet;Scale;Cash register
-0469#Field#5#Red circle over amount;Binocular lenses looking at beach;Field of grass with sun shining;Green playing field
-0470#Beverage#8#Beer;Wine;Fruit Juice;Tea
-0471#Archive#7#File Cabinet;Blue Save Button;Hallway;Binder
-0472#Medicine#8#Purple Flowers;Green Cross;Doctor;Pills
-0473#Director#8#Movie Director Chair;Music Conductor;Office Desk;Business People at Table
-0474#Cream#5#White Daisy Flowers with Cream;Wooden Bowl;Cow Utters;Milk
-0475#Invent#6#Person Thinking;Head with Gears;Cavemen Cartoons;Computer
-0476#Elements#8#Volcano;Sand Dunes;Ocean Waves;Clouds in Sky
-0477#Platform#8#Diving Pool;Stormy Ocean;Red High Heel Shoes;White Stair Platform
-0478#Plate#5#Flat Black Rock;White Kitchen Plate and Knife;Gold Stamps;Cracked Rock
-0479#Mask#4#Costume Mask;Doctor with Laughing Gas;Facial;Robber in Black with Flashlight
-0480#Creative#8#Think Outside The Box;Girl Drawing;Light bulb;Statue
-0481#Number#6#Barcode;Track;Elevator;Doors
 0482#Trailer#7#Truck on Road;Trailer House Home;Green Field;Coming Soon TV
-0483#Vehicle#7#Army Truck;Horse and Carriage;White Car;Airplane
-0484#Peace#5#Piece Sign;Hippie Flower Van;Hand Making Piece Sign;Dove
-0485#Jewels#6#Diamond;Diamonds;Crown;Jewelry
-0486#Complete#8#Puzzle;OK Hand Signal;Green Check Marks;Black and White Checkered Flags
-0487#Market#6#Trend Line;Woman Bagging Fruit;Bags of Spices;Black Woman Smiling in Bandana
-0488#Starch#6#Potatoes;Man Ironing Shirt;Blue T Shirts;Baking Cookies
-0489#Castle#6#Sand Castle;Chess Board;Mansion with Fountain;Chess Pieces
-0490#Decorate#8#Badges of Honor in Uniform;Red Wall;Christmas Ornaments;Flowers
-0491#Wellness#8#Spa Towel and Oil;Facial;Yoga Meditation;Tea with Leaves
-0492#Aid#3#Cartoon Piggy Bank;Scissors and Bandages;First Aid Kit;Blind Person
-0493#Achieve#7#Girl On Top Of Mountain;Red Finish Line;People Holding Red Arrow;Graduation Gown
-0494#Mullet#6#Fish;Back of Person in Chair with Funny Hair;Fish in Sauce;Man’s Face
-0495#Ginger#6#Cartoon Cat Kitten;Gingerbread House;Powder;Red Hair
-0496#Command#7#Girl at Keyboard;Army Cartoon;Mom and Daughter;Computer with Stethoscope
-0497#Apply#5#Boy with Sunscreen Suntan Lotion;Magnifying Glass;Wrist in Bandage;Man at Laptop
-0498#Cooler#6#Air Conditioning and Mountains;Champagne;Green Cooler;Fan
-0499#Climate#7#Thermometer and Sun;Ocean, Lake, Sea, Water;Map;Sun Shining
-0500#Armor#5#Rodent;Army Tank;Knight Silver Armor;Green and Red Badge
-0501#Focus#5#Trippy Design;Camera Lens;Sun and Droplets;Studying
-0502#Access#6#Keys with House;Stop Sign;Unlocking Door Lock;Turn Gate
-0503#Fill#4#Wine;Gas Pump;Jelly Donut;Gardening Pot with Dirt
-0504#Pad#3#Pond with Lilly Pads;Mouse Pad;iPad;Notebook with Checklist
-0505#Arrow#5#Three arrows hitting a red bulls eye target;Red line graph going down;Green and blue arrows pointing left and right;Man’s shows with white arrows pointing in different directions
-0506#School#6#Boy against Chalkboard;School;Group of Fish;People Studying around Circle Table
-0507#Control#7#TV Remote;Boy Playing Video Game;Iguana with Puppet;Sewing
-0508#Fender#6#Car Bumper;Polishing Car;Guitar;Tanks
-0509#Mind#4#Social Media Graph;Head with Gears;Boy with Thinking Bubble;Couch Sofa
-0510#Language#8#Welcome in Different Languages – Bienvenue;Hand Signals;Books;Do You Speak English?
-0511#Bird#4#Chickens;Baby Chick;Parrots;Pigeons
 0512#Harmony#7#People Singing;Ying Yang;Music Notes;Dove
-0513#Royalty#7#Coupons;Gold Crown;Queen;Red Car on 100 Bill
 0514#Adapter#7#Saxophone;Green Wire Chips;Electrical Plugs;USB Cords
-0515#Share#5#Kids Tugging at Teddy Bear;Pie Chart;Trend Link;Elephant’s Back
-0516#Picture#7#Raining Cartoon;Movie Theater;Kid’s Drawing;Man Thinking
-0517#Milk#4#Baby Bottle;Cow with Flower;Goat;White Liquid
-0518#Controls#8#Car Driving;Gears;Video Game Controller;DJ Buttons
-0519#Insect#6#A green Caterpillar climbing up and object;A Ladybug on a leaf;Bees on a Honeycomb;A Grasshopper on a leaf
-0520#Icon#4#A woman praying and looking up towards the sky;A green smiley face, A yellow face, and a red sad face;A cartoon woman wearing a white dress and posing;A bunch of different symbols
-0521#Navigate#8#A map with a gold compass;A map with different icons posted on it;A hand on a ship’s steering wheel;A gold object used to measure distance through site
-0522#Secret#6#A black door with a gold steering wheel in it with gold bars on the side;A file that reads Confidential;A girl in a white dress whispering in a boy’s ear;A woman with her index finger to her mouth
-0523#Phone#5#A hand picking up something;A smartphone;An old phone;An orange rotary phone
-0524#Contrast#8#A picture of a Ying-Yang symbol;A bigger woman next to a smaller woman,;A pair of glasses looking at the window;Black dots going in a wave
 0525#Cube#4#Three red dice;Three ice cubes;A 3-D square of people’s pictures;A big white box with a blue, green, red and yellow box on the bottom
-0526#Wall#4#People standing in front of a big badge object;Brick objects around a garden;A graffiti wall;A walkway seen in China
-0527#Proposal#8#A stick figure on one knee to another stick figure,;People sitting at desks staring at a red board;A white clipboard with red dotted lines and thumbtacks.;A group of people sitting around a white desk with papers in their hands
-0528#Pollute#7#A chemical plant with steam coming out;A car exhaust;A pile of garbage;A man covering his face with a white mask
-0529#Builder#7#A yellow construction helmet with a ruler and papers;A yellow helmet with yellow gloves;A row of constructions tools;A bunch of constructions signs and postings
-0530#Hinge#5#A person clutching their knee;A metal device used for opening and closing doors;An X-ray of an elbow marked in red;The corner metal piece to a door
-0531#Virus#5#A bunch of blue bubbles with stuff coming out the sides of them;A blonde woman swinging a hammer at the computer;An insect on someone’s arm;A person blowing their nose
-0532#Planet#6#Earth;A red round object with dark spots on it;A round object with rings around it;A round object with white and badge stripes going around it
-0533#Aperture#8#A black object circling around a white hole;A man pointing a camera;A brown wooden wall with a white heart in the middle;A white board with a hole in the middle of it
-0534#Lighting#8#A bunch of candles lit in a row;A shinning light on center stage;A city all lit up;A highway with red lights going one way and white lights going the opposite way
-0535#Shoe#4#A pair of cowboy boots;A pair of running sneakers;A pair of black heeled shoes with a red bottom;A pair of blue sandals
-0536#Wisdom#6#A tooth;A statue of a man with a beard;A bookshelf;A cartoon picture of a blue owl
-0537#Insulate#8#Silver tape;A silver thermos;A tent in the snow with a green light in the sky;A cartoon drawing of an igloo
-0538#Soak#4#A dog taking a bath;Badge beans in a plastic container with a garnish on-top;A person’s feet in a bubble bath with purple flowers around;A yellow object in the water
-0539#Filter#6#A person’s finger on a wall pointing at a car;A blue circular object with an icon on it;A person pouring a glass of water;A coffee mug filled with ground-up coffee
-0540#Interest#8#A man and woman talking to someone at a desk;A woman playing the guitar;Money and a percentage sign on-top of it;A man carrying a backpack
-0541#Sky#3#The stars;Green grass and blue a blue sky;The beach and a sunset;The sun rising
-0542#Emotions#8#An older woman hugging a little girl;A man with a worried look and fingers in his mouth;A little child crying;A woman holding up a red heart
-0543#Mirror#6#A pile of rocks creating a small little bridge of water;A pair of buildings;A person sticking their thumb up in the rear-view mirror;A woman looking at herself in the mirror
-0544#Cinema#6#A movie theater with red chairs;A bag of popcorn;Four roles of film and a clamp board;A movie theater ticket
-0545#Contest#7#People’s arms raised in the air holding up a trophy;A drawing of a winner’s table;A person ice skating;People racing with horses
-0546#Building#8#A white 3-D outline of the inside of a house;A place in Australia;A child constructing a toy house;A pile of blue prints
-0547#Analog#6#A graph with a straight line and a wavy line;A blue alarm clock;A black board with white keys;A black camera on a wooden table
-0548#Pass#4#A card that reads VIP;A white car driving on the road;A ruby player catching a ball;A road leading to a dark mountain
-0549#Practice#8#A woman with a white coat and a blue stethoscope;A woman helping a child write something;A child playing an instrument;Two people exercising
-0550#Cowboy#6#A black hat;A cow eating grass;Rope;A brown boot
-0551#Exhibit#7#A row and variety of chocolates;A person staring at a bunch of white squares;A black chair facing a colorful painting;An ancient artifact
-0552#Coffee#6#A brown grinder with a crank on top;A green plant with red objects on top;A bunch of brown beans;A badge filter
-0553#Art#3#A girl doing ballet;A person building something out of wood;A woman painting;Two people wearing white and black outfits and black and white face paint
-0554#Athlete#7#A sculpture of a person touching their knee;A man balancing himself on a rock;A man throwing a large stick;A person on a treadmill
-0555#Display#7#A variety of Pearls;A computer screen;A person holding out a dish with food on it;A person showing people something at a meeting
-0556#Exercise#8#Girl working out doing sit ups on a ball;Kids in math class;Women stretching and working out;Army soldiers
-0557#Conceal#7#A person wearing black and green paint;A child covering their eyes;A person pulling a card out of their sleeve;Three dark markers with badge tops
-0558#Enclose#7#A bunch of dogs inside of a cage;An envelope with a letter inside of it;A red cartoon barn with a fence and green grass;A cartoon bird inside of a cage
-0559#Wedding#7#White flowers in a bunch;A black top-hat;A three-tiered cake;Two gold rings
-0560#Balloon#7#A hot air balloon in the clouds;A bunch of colorful balloons;Two heart shaped balloons;A yellow and red animal-shaped balloon
 0561#Calendar#8#A person writing something in a notepad;A red circular object with animals and Chinese symbols on them;Sheets of white paper with black and red numbers on them;A circular object
-0562#Flower#6#A landscape shot of grass and mountains;A single red rose;A woman with her face to a bunch of flowers;An orange watering pot with flowers in it
-0563#Console#7#A table with a bunch of grey nobs on it;A wooden piano table with different levels;Two blue figures in suits hugging each other;A person playing a video game
-0564#Energy#6#A person getting a facial massage;A white windmill;A chalkboard with an equation on it;Children playing in the park
-0565#Defense#7#A person sticking their hand out and wearing a black robe;Football players staying close together;A bottle of Pepper Spray;Men carrying guns and wearing red coats with fur on the top
-0566#Unison#6#A man and a woman embracing each other;A black and white photo of two men singing;Two of the exact same clocks but different colors;Two people shaking hands
-0567#Chemical#8#A tube pouring liquid into different containers;A bunch of chemistry containers holding different colored liquids;A yellow Hazard sign;Small and big blue-bubbles connecting
-0568#Burn#4#A red-figured man and woman in their undergarments;A yellow sign with a flame on it;A flame on the beach;A piece of toast
 0569#Horn#4#Deer antlers;A silver object with a black bottom;A gold instrument;A Rhino
-0570#Channel#7#A DJ table;Someone pressing a remote;A lake with rocks and trees;A dark area with a white line on the side and someone standing at the bottom
-0571#Singing#7#A woman talking in to a microphone;Two women standing next to each other;Four cartoon birds in different colors;Cartoon character kids standing together in the snow
-0572#Husband#7#A man in a tuxedo holding something;A collage of couples together;A bride and groom standing next to each other;A man and woman cooking
-0573#Source#6#A pond with rocks around it;A green battery;A person holding a sheet of paper and in front of microphones;A person holding up a copyright sign
-0574#Devotion#8#Two people looking up at the heart shaped cloud;A group of people in masks holding up signs;A group of people surrounded by a gold statue;A person praying in the sunset
-0575#Faith#5#Hands together;A cartoon man catching a woman;The top of a tower with flags of different colors coming down;A Nun praying
-0576#Column#6#A row of people dressed in the same outfit;A bunch of graphs and pie charts;Two object;Two Smart Tablets with newspapers on them
-0577#Polish#6#A man using a tool on a car;A person cleaning their shoes;A person spraying and cleaning something;A country’s flag
-0578#Ceremony#8#A bride and groom dancing;People holding up trophies;A group of people carrying a casket;Graduates throwing up their caps
-0579#Product#7#A pen and calculator;A person with their hand on their head;A woman looking at shelf;A woman holding up an item
-0580#Tablet#6#A bunch of different colored pills;A smart phone and a cup of coffee;A big brown piece of rock;People’s arms picking up a plate
-0581#Stunt#5#A person driving a motorcycle with fire behind them;A person doing a trick on a dirt bike;A person balancing on a wire;A person jumping from one cliff to another
-0582#Safari#6#A person with binoculars;A white truck;An orange tent with a person in front of it;A Zebra
-0583#Function#8#A woman in a work outfit;A board with a green and pink sticky note on it;A group of people sitting in front of a big white screen;A pocket knife
-0584#Part#4#A man and woman holding a piece of a heart;A man inspecting his scalp;A group gears with one being red;A trashcan with a filter on the side
-0585#Britain#7#A red dragon;Tea cups with tea in them;A kilt;A dog
-0586#Ladle#5#A metal object;A metal object pouring soup;A metal object pouring g a yellow liquid in to a bowl;A metal object pouring something hot
-0587#Barge#5#A cartoon man with a green face;A bunch of boats together;A man who has fallen off his bike;A man cutting off another man
-0588#Advance#7#A group of people in military outfits;Money being exchanged;A black background with a red line going up;Two people playing chess
-0589#Slide#5#A zipper;Film;A person holding a small picture;Penguins going down a hill
-0590#Script#6#An old Egyptian-looking picture;A piece of paper with a feather and ink;A chalkboard with writing on it;A piece of paper with writing on it
-0591#Chop#4#An ax on top of a tree stump;A person doing karate;A piece of meat;A cartoon drawing of an ax in wood
-0592#Motion#6#A judge with a brown hammer;Shiny swerving yellow lights;A cartoon woman in a rocking chair;A person running on the street
-0593#Organ#5#A person playing the piano;A brain;An X-Ray with the heart in red;A musical device found in Religious areas
-0594#Blanket#7#A bridge with snow and fog on it;A mountain top with a lot of snow on it;A towel over an icepack;Two people under the covers
-0595#Clean#5#Cleaning sink with rubber gloves and spray bottle;House cleaner with a mop/Swiffer;Woman’s smile & teeth;White dishes
-0596#Tissue#6#A box with towels inside of it;A person holding the side of their leg;A blue box with something coming out of it;A roll of paper
-0597#Pattern#7#An Egg with different colors on it;A match of different shapes and colors;A white and black background with different objects and colors in it;A red and white match of shapes and colors
-0598#Ship#4#A boat out at sea;A rocket flying;A plane on top of a ship that is next to trucks;A big boat on water
-0599#Period#6#A bunch of colors next to each other creating a wave;A sand colored swirl;A chalkboard with a grid on it;A clock
-0600#Girl#4#A person holding a watermelon;A doll wearing a pink dress;A cartoon figure running;A person getting their hair done
-0601#Farm#4#A bunch of windmills;A wheat field;A tractor;A bunch of cows on a field
-0602#Count#5#A vampire;A person picking up coins;A person writing something with a pen;A person using a mathematical device
-0603#Formal#6#A person wearing a suit and tie with white gloves;Two hands shaking;A person in tuxedo with a white cloth holding out a black object;A drawing of a wedding dress and person in a black tuxedo
-0604#Excel#5#A horse race;A yellow folder with letters on top of it;A person in a suit with a red arrow going up.;A bunch of medals
-0605#Pastel#6#A bunch of pink flowers;Different colored hearts with strings on the bottom of them;A variety of colors;A variety of different chalk colors
-0606#Mountain#8#A pile of different colored clothes;A green field with tall objects in the buildings;A private island;A field with pink flowers
-0607#Series#6#Two black jeeps on a dirt road;A bunch of different colored objects;A white ball with swirl marks on it;A woman laying down watching TV
-0608#Genetics#8#A swirl of blue and white;A picture frame in the shape of tree with ovals hanging off the side of it;A DNA grid;A group of four people smiling and holding each other
-0609#Junk#4#A chicken burger with French fries;A bunch of broken computers;A bunch of broken computers;A ship out at sea
-0610#Basin#5#A white bowl with markings around the side and blue and white tiles;A white bowl;A bathroom with two sinks;A waterfall surrounded by trees
-0611#Rotten#6#A person smelling sushi;A man holding his nose and putting out a fish;An apple with dirt marks on it;An orange with black around the side of it
-0612#Invader#7#Aliens looking down at the Earth;A person wearing a black suit covering his face and holding a bar;A spaceship;A group of people holding guns in the field
-0613#Value#5#A small blue box next to a big blue box with a green line around it;A child holding an object;A house with a For Sale sign in front of it;A pile of money that is in different colors
-0614#Working#7#A group of people digging;A man in a suit with four arms;A person writing with a gold pen on a sheet of paper;A man holding up a tool
-0615#Primary#7#A red number 1 sign;A box with a person putting in an envelope;Four children in a classroom raising their hands;Three different colored circles merging
-0616#Content#7#A drawer with clothes in it;Two people out at a restaurant;A woman with her hands behind her head relaxed;A woman with her cellphone out and an object in her other hand
-0617#Badge#5#A group of dots with different symbols and colors;A person in a suit and blue tie holding a red folder;A blue background with pink sunglasses;A cartoon police officer showing a gold object
-0618#Select#6#A group of male and female objects connected at the feet with a blue and purple one in the middle;A computer icon hand with its finger pointing;Three boxes checked off in green;A gold ribbon with writing on it
-0619#Article#7#A newspaper;A bunch of red books with someone writing and a pair of glasses;A pile of magazines;A closet filled with clothes
-0620#Member#6#A group of soccer players in a huddle;A persons legs on a piece of wood;A red card above a black card;A group of people icons in different colors with their arms out
-0621#Fold#4#A scarf;A person sitting at green table with playing cards and chips in front of them;Origami figures in different colors;A person’s hands put together
-0622#Tower#5#A building with a variety of different colors around it;A white building with columns around it and a white taller building next to it;A pile of books;A person holding a child’s hand
-0623#Wife#4#A man and woman smiling and holding each other;A man carrying a woman in a white dress;A woman in a white dress holding out her hand with a ring on it;A man and woman looking at something together
-0624#English#7#Fried fish and French fries;A cup of tea and treats;A street with red phone booths on the side;A brown dog
-0625#Speed#5#A person snow boarding;A figure of a person running fast;A stream of light of something that is going fast;A man running a track
-0626#Industry#8#A cloud of smoke coming out of pipes;A woman typing on the computer;An object out at sea;Two hammers crossing each other on an icon
-0627#Toxic#5#A snake;A person wearing a mask and holding something up;A cloud of smoke with a brown and white pipe under it;An orange can with a spray at the top standing over a flower
-0628#Speaker#7#A person talking in front of a crowd;A music and sound device;A blue icon with bended lines coming out if it;A group of silver sound devices on a pole
-0629#Enter#5#A brown door;A keyboard;A person’s finger on a piece of paper;A black object with white icons and buttons on it
-0630#Vitamin#7#A bunch of fruits piled together next to pills;An orange sliced open;A group of vegetables piled together;A pile of pills in their packaging
-0631#Shed#4#A small wooden house;A white object in the shape of a house with hands holding it;A cartoon figure coming his hair and crying;A bunch of small houses together
-0632#Horse#5#A white Chess piece;A person standing next to animal;A person doing gymnastics;A wooden object with a saddle
-0633#Plane#5#A person carving something;A person holding an object;A flying object in the sky;A group of blue seats next to one another
-0634#Pride#5#An animal with its tail spread;A male Lion next to a female Lion;A person in white flexing;A woman holding out her diploma
-0635#Blow#4#A palm tree in the window;Two people fighting with gloves on;A child making bubbles;A cartoon drawing with the word “Boom”
-0636#Servant#7#An arm holding out an umbrella;A person driving someone in the back of the car;A woman in white holding out something and a man in a tuxedo holding something;A person in a red and gold outfit
-0637#Resource#8#A room with lamps in a row and book shelves;A man with a helmet on that has a light attached to it;A row of windmills;A pile of chopped wood
-0638#Angry#5#A person wearing a blue shirt with a cloud of white covering their head;A man yelling at his computer;A lion roaring;A cartoon drawing of a red bull
-0639#Litter#6#A group of white kittens;A black car with a person’s arm outside of it;A group of small dogs;A beach with garbage on it and a dead fish
-0640#Weak#4#A chain linked with a piece of red rope;A cartoon drawing of an older man;A person’s hands tied by chains and a gold lock;A big blue glove touching a smaller red glove
-0641#Sound#5#Water surrounded by mountains;A microphone;A can with red string attached to it;A pair of headphones
-0642#Scale#5#A person climbing a ladder attached to a white wall;A yellow object in the shape of a beehive;A piece of measuring tape;A device to weigh objects
-0643#Slippery#8#A group of people going down a slide;A bar of soap;A shoe about to step on a banana;A stick figure falling on a puddle of water
-0644#Romantic#8#A beach with two hearts drawn in the sand;The Eiffel Tower;Two people staring at the beach looking at the sunset;A drawing of a historical figure
-0645#Sting#5#A person getting a shot;A plant with pointy objects on the side;A fish in the water with a long tail;A mosquito
-0646#Privacy#7#A computer screen with a username and password on it;A blue door that is shut;A green door with a gold lock on it;A door with a red sign on it
-0647#Blend#5#A person’s hand touching a machine;A machine with orange objects inside of it;An animal on a tree branch;A painter’s board with a variety of colors on it
-0648#Pepper#6#Different colored pebbles with an object scooping them;Three different colored vegetables;A plate with tiny little black objects on it;A platter with red and black objects on it
-0649#Dispense#8#A person’s hand touching a grey machine;A candy ball machine;A container with a blue liquid inside of it;A person’s finger touching a keypad
-0650#Military#8#A gold and silver medal;A person in green shooting a gun;A woman wearing a green outfit with a red hat;A bunch of people in green standing next to each other with their hands behind their back
-0651#Circuit#7#A blue square object surrounded by different lines;A person getting ready to run on a red track;An “ON” switch and an “OFF” switch”;A racing tack for cars
-0652#Handle#6#A green door with a gold object on it;A hand holding a mouse;A person holding out an object;A dark green door with a gold object on it holding out a gold ring
-0653#Mining#6#A brown and grey area;A black and white drawing of a man chopping at a wall;A person pushing a cart in a cave;A cave with a light on top and a rail on the bottom
-0654#Japanese#8#A symbol;green house surrounded by a pond and trees with a red awning;Sushi being held up by chopsticks;A city with a mountain in the background
-0655#Cheesy#6#Yellow objects piled up together with a white piece on the side;A piece of a yellow object;A bowl of white popcorn;A green bowl with yellow in it and two foot prints
-0656#Punt#4#A person steering a boat with a stick;A football player kicking a ball;A row of boats in different colors;A person kicking a ball
-0657#Boat#4#An object on the sand;An object out at sea surrounded by buildings;A woman with a stick and a man sitting down;A view of the ocean from the side off of this object at sea
-0658#Draft#5#A page out of a cartoon;A glass of beer;A role of papers next to each other;A bunch of people figures in black with one being red and a hand pointing down at it
-0659#Queen#5#A bee with a crown and stick;A person in a gold dress and red around them;A cartoon figure in a dress with red hair and red hearts on her dress;A white Chess piece knocking over a black Chess piece
-0660#Rook#4#A cartoon picture of a black crow;A chess board;A Tower to a castle;A black crow
-0661#Confused#8#A man in a suit reading a book scratching his head next to a pile of books;A person holding an umbrella with Question Marks falling from the sky;A person with glasses scratching his head;A Person holding a computer with wires around their body
-0662#Staff#5#A doctor surrounded by people around him;A group of people next to each other with headphones on in front of computers;A black stick next to a bagel wall with a handle bar;A gold stick with a red object at the top
-0663#Exact#5#A person cutting grass;A person holding a stop-watch;A person putting something away;A red target with a red dart on it
-0664#Oxygen#6#A person holding an object;O2;Scuba diver;Swimmer
-0665#Prince#6#A cartoon figure wearing a red cape and gold crown under a rainbow;A person wearing a red cape and gold row on one knee;A little girl holding a green frog;A cartoon figure of a knight on a horse
-0666#Mortar#6#A graduate cap with a diploma;A person holding up a grey substance;A black object on three legs on the grass;A grey bowl with a big object in it
-0667#Whole#5#A pile of wheat;A percentage sign;A husband and wife cutting a cake;A carton of milk
-0668#Figure#6#A skater;An hourglass;The number “1″;A black and white photo of George Washington
-0669#Target#6#A field with a white object in the middle;A man standing in front of a chalk board with an arrow going up and down and then up;A man drawing stick figures in a circle with one red in the middle;A person shooting a bow and arrow
-0670#Zoom#4#A black camera;A round object over a bunch of male icons;A two icons one with a green plus sign and one with a red minus sign;A red race car
-0671#Pet#3#A girl playing with a cat with a bowl of milk;A girl holding a cat to her face and smiling;A person holding an animal’s paw;A dog and a cat together
-0672#Giant#5#A person stomping on a smaller person;A smaller person in a suit next to a taller person’s leg;A tall person playing basketball;A big shark in the water
-0673#Ear#3#The side profile of an Elephant;A person looking inside another person’s head with a device;A pile of corn;A person holding their hand to their head
-0674#Spain#5#A woman in a red dress;A plate with black and green food on it and fire flames in the background;A bottle of wine with a glass of red wine next to it;A person with a red cape playing with a bull
-0675#Cram#4#A person sitting on top of a filled suitcase;A person standing behind a pile of books;A person sitting down with a big bag on top of their lap;A person stuffing their face with food
-0676#King#4#A playing card;A white Chess piece with all other Chess pieces lying down;A cartoon figure of Elvis;A Lion lying down
-0677#Mistake#7#A person wearing glasses and covering their mouth;A man showing something to a woman and her hands are on her face;A blue and red eraser;A man sitting a desk with a incorrect math problem behind him on a chalkboard
-0678#Barrier#7#A reef with fishes at the bottom of the ocean next to it;A row of gates;A road with a silver gate around it;A track with a row of tires next to each other
-0679#Crop#4#A person holding grapes and a blue cutting object;A person riding a horse with a black boot;A tractor on a field;A person’s face with short black hair
-0680#Library#7#Two people looking at a book;A row of books;A shelf of books;Books together with a pair of headphones holding them together
-0681#Pie#3#A treat in the oven;A piece of something with three cherries next to it;A slice of something with whip cream on a plate;A person holding a chart with four different colors
-0682#Mature#6#An older man with graduation attire on;A pile of old cheese;A bunch of old barrels piled together;Cartoon figures walking in a like and one of them is in graduation attire
-0683#Marble#6#A statue of someone with their arm cut off;A piece of raw meat;A bunch of round objects with different colors;The top part of a white statue
-0684#Equal#5#six hands sticking out with different fingers pointing;A group of yellow and blue people icons holding hands;A black rock balancing a piece of wood with two objects on it;A math problem on a black chalkboard
-0685#Soar#4#A red glider in the air;A hand writing on a graph with a red arrow above it;A bunch of helicopters in the air;An Eagle flying in the air
-0686#Scottish#8#A drawing of a green field with a blue background and white objects in the sky;A castle surrounded by water;A plaid piece of cloth;Two animals standing next to teach other in the snow with a fence behind them
-0687#Young#5#A white container with cream inside of it;A group of little birds;Two little animals;Two little children next to each other and one whispering to the other
-0688#Cut#3#A child holding up there finger with a Band-Aid;A person slicing a red tomato;A person using scissors;A saw going through wood
-0689#Level#5#A pyramid with different colors;A greyish picture with tall buildings;Tetris blocks;A piece of a ruler
-0690#Shuffle#7#A person holding cards;A person’s feet;Two arrows overlapping one another;A person using two hands to mix them together
-0691#Storage#7#A big room holding stuff with a green cart;A computer device;A CD;A blue USB cable with someone putting something in it
-0692#Baby#4#A little bird;A little cat;A little bunny;A little baby drinking from a bottle
-0693#Queue#5#Sheets of paper coming out of a printer;A woman sitting at a desk with a headset on;A group of people standing close to one another;A line of cars in traffic
-0694#Climb#5#An airplane in the air over the runway;A person climbing up a wall;A person walking up stairs;A person climbing a ladder
-0695#Timer#5#An egg shaped device with numbers on it;A black watch;A person holding a clock;An hour glass
-0696#Teacher#7#A child swimming with someone holding them;Two people sitting at a computer together;A person driving with someone;A person instructing a workout class
-0697#Pit#3#A hole in the mountain;A woman putting on deodorant;A dirt road leading to a mountain;A peach cut in half
-0698#Feline#6#A cat staring up;A Lion staring;A cartoon fish bowl with a cat’s claws on it;A black cat running
-0699#Waitress#8#A woman in a black tuxedo holding a tray;A woman holding two drinks in a tray;A woman talking to people at a table;A woman holding up an empty tray
-0700#Scrap#5#A car cut in half;An eaten apple;A bunch of junk piled together;A piece of ripped white paper
-0701#Spectrum#8#A silver object beaming out different colors;A variety of different colored apples;A circle with all the colors mixed together;An animal blended in with different colors all over
-0702#Smash#5#A window with two holes in it;A cartoon character that’s green and with big mussels;A broken white bowl;A green tennis ball
-0703#Mexico#6#A tortilla;A tall building with green grass and blue skies around it;A big hat and a colorful blanket;A beach with an umbrella and chair looking out at the blue ocean
-0704#Sleepy#6#A person wearing glasses and holding their head up;A person yawning and holding a clock;People sitting next to each other at a desk with one person with their head down;A child holding their face with their hands
-0705#Partner#7#A man and woman dancing with each other;Two people on a tennis court;Two men shaking hands;Two people sitting next to each other and hugging
-0706#Wealth#6#A big white building with a lot of windows;A woman wearing fur and holding up her necklace;A pile of money in different colors;A statue of a person meditating
-0707#Award#5#A person holding up a trophy;An emblem with the number “85″ on it;Two people shaking hands;A trophy with a black bottom
-0708#Sweep#5#Two people cleaning;A person sticking a broom down a chimney;A cartoon animal holding a broom;A person carrying a ladder and broom wearing a top hat
-0709#Prey#4#A woman carrying a bag and a hand reaching inside of it;An animal in the field;A Lion roaming through the forest;A bird with its mouth opened
-0710#Carton#6#A woman food shopping and holding something up;A box with a picture on front of it;A room with a window and a ladder and boxes everywhere;A box filled with brown eggs
-0711#Election#8#A box with an envelope going inside of it;A sign that reads “Vote”;Four cubes in different colors with an object on them;A pie chart with four different colors on it
-0712#Drift#5#A snow covered field with a house in the background;A chimney with snow on top of it and smoke coming out;A hot air ballon floating out in the sky;A glacier surrounded by water
-0713#Format#6#Three polaroid pictures;A pdf icon;A hard disk icon;A movie displayer
-0714#Weave#5#The back of someone’s head with tied up long hair;A woman in a black and pink outfit doing something;A basket of red apples;Two people boxing
-0715#Board#5#A person doing a trick with their skateboard;A person staring at a black chalkboard;A bunch of people sitting around a desk;A person snowboarding
 0716#Cape#4#The side profile of a person with a pink background;A view of the ocean and mountains;A little girl in a red outfit holding a basket;A person playing with a bull on a holding a red cloth
-0717#Tail#4#The end of an airplane;A mermaid;A lizard;Comets shooting in the sky
-0718#Summit#6#A bunch of people sitting around a desk;A group of icons with different flags above their head surrounding the world;A person on top of a mountain with their arms raised;The top of a mountain
-0719#Formula#7#A board with different numbers and letters on it;A baby drinking out of a bottle;A water drop with H2O written inside;A race car
-0720#History#7#A bunch of old black and white pictures;An old map with a boat steering wheel on top of it;The top half of a statue;A bunch of old books in a row
-0721#Type#4#A group of pastas put together in a set order;A white board with writing on it;A man with a black hat writing at his desk;A person’s fingers with red painted nails on a black keyboard
-0722#Lesson#6#A motor scooter with a red L on the front;Two people writing on a green chalkboard;A small black chalkboard with “Web Seminar” written on it;A child with their arms folded and someone pointing their finger at them
-0723#Belt#4#A person in Karate gear;An orange planet with rocks in a line;A person putting their seatbelt on;An airport device to get your luggage
-0724#Till#4#An old register;A beige area with an orange line under it;A new cash register;A row of green fields
-0725#Page#4#A globe with a mouse icon touching it;A person holding an electronic device with a number on the screen;A book with nothing written on the insight;A person in a suit holding a white pillow
-0726#Coverage#8#Three people sitting on the couch with their arms raised;A woman holding a microphone;A bed with pillows and sheets on them;A newspaper
-0727#Wired#5#A computer mouse with a wire at the front;A piece of barbwire;A bunch of different colored wires plugged in;A bunch of red and orange tipped wires
-0728#Scene#5#A drawing of people on stage;A woman holding a rolling pin with her mouth opened;A person holding a clipboard for movies;A floor with a chalk outline of someone’s body and yellow flags around it
-0729#Bargain#7#A white bottom with numbers coming out and floating behind a red top;Three people at a table with two men shaking hands;A person holding out something and the palm of a hand blocking it;A tag that reads “Best Price”
-0730#Amplify#7#A band on stage;A bunch of speakers all around each other on a tour;A person with a microphone;A row of gold buttons used on a music device
-0731#Liner#5#A big ship;A person putting makeup;A big bus on the road;A plane flying
-0732#Lose#4#A woman with a tape measurer around her;Three keys on a string;Four different colored marbles;Three people running towards a red line
-0733#Knight#6#A person in armor;A cartoon drawing of a person on a horse going up to a green dragon;Two horse chess pieces with their head’s touching;A person wearing a gold crown touching a person kneeling with a sword
-0734#Premium#7#A row of 100 dollars;An orange sports car;A bottle of champagne;A row of gold stars
-0735#Good#4#A person pointing their finger at a smiley face;A woman with wings smiling and holding her head up;A green check mark;A thumbs up sign
-0736#Genius#6#A cartoon drawing of Albert Einstein with a pointer;A child lying down with mathematical signs above him;A child standing in front of a green chalkboard with different formulas written on it;A baby in a diaper with glasses
-0737#Garbage#7#The middle part of an orange truck;A pile of bags with things in it;A can filled with junk;A pile of junk outside
-0738#Skill#5#A person playing the violin;A person with their hands on their head playing Chess;Two people playing soccer;A woman writing on a board
-0739#Convert#7#A butterfly on a twig;Blue arrows going in a circle with different types of currency in between the blue arrows;A solar pannel;A green leaf with arrows above it and different chemical elements in between the arrows
-0740#Master#6#A woman wearing a graduation cap;A statue of a man doing karate;A man training his dog in the field;A woman with a pointer and pointing at a chalkboard with writing on it and wearing glasses
-0741#Paddle#6#A green ping pong table with a net;A red mill;An orange oar;A person riding in kayak
-0742#Greedy#6#A cartoon figure with dollar symbols in their eyes;A blue fish eating a yellow fish;A cat staring at food on a table;A person with a fist full of money
-0743#Bond#4#A woman holding a child;A person putting tile on a green wall;A person pealing something;A bunch of hands and arms forming a square in the middle
-0744#Detail#6#A bunhc of people surronded by a solider all in balck;A green object with black spots around it;The back pocket of a pair of jeans;An insect on a red object
-0745#Plastic#7#A bunch of empty bottles;Three different colored garbage containers;A green recycle symbol;A yellow rubber ducky
-0746#Waiter#6#A person in a tuxedo holding a plate;A person in a tuxedo picking dishes up off of a table;A person holding a tray with nothing on it;A cartoon person holding a tray with drinks on it
-0747#Battery#7#A black bar;A black canon;A man in a suit with a beaten up face;Two people icons holding up a black and yellow object
-0748#Statue#6#A group of figures in a row;A New York figure;A figure found in Brazil;A row of figures with yellow around them
-0749#Firm#4#A group of people around a desk;Two people shaking hands;Four people in business suits standing next to each other;A group of people in all black
-0750#Package#7#A group of objects near a body of water;A red box with a white bow on it;A green field with a stick in a red tied up basket;A person holding a box
-0751#Extract#7#A bottle with a brown liquid in it;A bunch of big machines in a row;A bowl with a yellow substance in it;A small brown bottle next to a clear bottle with green leafs around it
-0752#Swing#5#Pairs of people in all black dancing;Metal balls on a string;A person playing golf;A child on a playground device
-0753#Tired#5#A woman reading and yawning;A yellow cartoon face yawning;A person turning off their alarm clock;A person in pajamas and holding a pillow
-0754#Knife#5#A cutting tool and a piece of meat;A cartoon chef pouring stuff in to a bowl;A device with many tools on it;A hand holding a sharp object
-0755#Pile#4#A group of different colored towels;A basket filled with clothes around it;A bunch of boxes on top each other;A child lying on something
-0756#Boy#3#A child yelling in to a microphone;A child laying down wearing blue;A child in dressy shirt and red tie;A child wearing a green shirt
-0757#Assembly#8#A group of people close together at a desk;A person building something;People installing solar pannels;A bunch of screws and bolts and wood on top of a piece of paper
-0758#Drag#4#A person pulling their luggae;A woman laying on a sled while someone pushes her;A cartoon race car with a paracute;A Santa Clause pulling a big red bag
-0759#Supply#6#An old army truck;A blue water pump with a bucket under it;Grey arrows bending in to blue squares;A wire plugged into something white
-0760#Cargo#5#An airplane next to a globe with a blue ship under it and boxes around it;A bicycle with green bags on the side of it;A bunch of boxes on top each other;A blue ship with red boxes on the top of it
-0761#Machine#7#A device with sparks coming out of its sides;A dryer;A device to make coffee;A construction truck and device
-0762#Floor#5#A person pressing a button on a elevator;A person pressing a button that turns green;A grey ground;pieces of brown wood put together
-0763#Child#5#A baby sleeping;People lying down with their feet showing;A person jumping in the air;A person dressed as a pilot with and airplane next to them
-0764#Pedigree#8#A black horse in the field;A dog next to cats;A family tree photo;A red award
-0765#Listing#7#A red circle around a word;A bunch of number with red and green arrows in between them;A newspaper with people under it looking up;A magazine with a TV remote on top of it
 0766#Cable#5#A car hanging off of a wire;Red and green and yellow wires hanging out of a white tube;A field with towers;A green wire going in to a device
-0767#Spoon#5#A man and a woman cuddling;A eating utencil;Different kinds of eating utencils;A pot filled with spaggetti
-0768#Gorge#5#A cave;A hole in between a glacier;A man stuffing his face with pasta;An X-ray of the throat
-0769#Family#6#People eating dinner at the table;A man with a child;A group photo;A bunch of puppies in a basket
-0770#Search#6#Treasure chest with gold inside of it;A dog with a suit on;A device to zoom in;A device to zoom in and pointed at the globe
-0771#Pot#3#A pile of cooking dishes;A a bunch of different colored plants;A big brown holder with gold in it;A tea cup and holder
-0772#Granule#7#Coffee beans;A bunch of sandy colored beans;A pink rose;A coffee bean grinder
-0773#Transmit#8#A satelite above Earth;A brown building with a satelite dish;A radio;A sign with a bug on it and red mark going through it
 0774#Primere#7#A movie screen with clapping hands around it;A red carpet with red rope around the sides;A person wearing a suit in front of microphones;A woman walking out of a limo in a red dress
-0775#Drill#5#A person screwing in a door;Military personnel marching;People doing construction on the street;Two people with Dentist utencils
-0776#Musical#7#A theater covered by dark clouds;Musical notes;A bunch of people standing together and singing;Cartoon characters daning in front of a red and white screen with a red curtan
-0777#Disguise#8#An insect on a leaf;A bunch of red and black faces;A dog with a long whig on it;A person wearing military paint on their face
-0778#Warning#7#A man and woman wearing glasses and her with her mouth opened;A sign that reads “Keep Quiet”;A sign with an exclamation point;A sign that has person digging and orange cone around it
-0779#Solution#8#A chemical glass with different liquids inside of it;A gird with different numbers inside of the boxes;A blue paper with numbers on it a pair of glasses and gold pen;A Zebra
-0780#Void#4#A person wearing a suit but with a silver ball for a head;A field with a grey hole in the middle;A math problem with a red line going through it;A night sky with stars
-0781#Sinister#8#A picture of the devil;A white and black hand;A dark stormy sky over a house;A metal helmet
-0782#Material#8#A row of different kinds of cloth;A row of different kinds of boxes;A blue and yellow scissors cutting something;A person on the radio
-0783#Capsule#7#A bunch of pills in a spoon;An open pea;An orange spaceship;A satelite orbiting over Earth
-0784#Thought#7#A man thinking at his desk;A man with his hands on his head and question marks above him;An X-ray of a person’s brain;A woman by a black chalk board with a white cloud over her head
-0785#China#5#The great wall;A colorful dragon;A person in a red dress with their hand out;Different symbols in a circle
-0786#Network#7#A black bar in the middle with different colored boxes on the top and bottom;A blue man and woman icon with a green icon in the middle;A bunch of cable connected;A bunch of hands and arms connecting
-0787#Crisp#5#A head of lettuce;Two people walking and holding hands in the snow;A plate of lettuce;A plate of fish
-0788#Suspend#7#A twirlled cable;The Golden Gate Bridge;A bottle with a wire on the top;Green trees with different colored lamps around
-0789#Wash#4#A car in water;A dog in a bath;A woman in the bath;A woman putting clothes in to a machine
-0790#Measure#7#A beer with a pretzle next to it;A device to weigh something;A bunch of chemical glasses;A chart with a music note in the middle
-0791#Bored#5#A child with their hands on their face;A person yawning and covering their mouth from the side;People in class sleeping;A person folding and ironing clothes
-0792#Hospital#8#A First Aid kit;A surgery room;Two people in scrubs;The hallway of a hospital
-0793#Rinse#5#A person showering;A person washing their hands;Washing off vegetables;Someone washing off Carrots
-0794#Union#5#People protesting;A blue flag with gold stars in a circle;A British flag;Two people holidng hands with rings on their fingers and white flowers being held
-0795#Engineer#8#A person sitting a desk with a pencil;A person using a music bored with knobs;A man in an orange vest and white helmet fixing a railroad track;A man with a yellow helmet and rulers and pencils around him
-0796#Object#6#A black swirl with a white hole in the middle;A cartoon judge with his hand raised and one finger up;A child with glasses on and a raised arm with a finger pointed in the air;A spaceship with blue light coming out of the bottom
-0797#Lock#4#A brief case code;A ship on the dock;A key in the hole;A side profile of a blonde haired woman
-0798#Comic#5#A man in a red and yellow shirt with a microphone;A man with a red cape;Dogs with sunglasses and party hats on;A cartoon drawing of the word “Pow!’
-0799#Mammal#6#Three Dolphins jumping out of the water;A Gorilla’s face;A Tiger lying down;A woman holding her chin with her hand
 0800#Alcohol#7#A glass of beer;Two barrels;A glass of Whiskey with ice and a bottle;A blue bottle with red lips on the label
-0801#Robot#5#A cartoon drawing of a yellow object;A butterfly on a mechanical hand;A tank with something on top of it;Three orange devices
-0802#Design#6#People staring at board and a tablet;A red chair;A red dress;A bunch of different icons and logos over a white background
-0803#Sight#5#A person looking through binoculars;A man shooting a gun;A blue eye;A scene of the Eiffel Tower
-0804#Promote#7#A woman in workout gear and a megaphone;Two people icons and one pushing the other one up a green arrow;A woman sitting down and typing while a man looks over her shoulder;A bunch of food signs next to each other
-0805#Injury#6#A person with a broken foot and crutches;A bandaged foot;An X-ray of a person’s spinal cord;A teddy bear with two band-aids on its head
-0806#Stir#4#A person getting ready to paint;A person with a spoon in their coffee;A child looking into a pot;A pot of food in it
-0807#Paste#5#A toothbrush;A cookbook and some vinegar and a person stiring;Three buttons from a keyboard;A tube with some green liquid coming out of it
-0808#Accident#8#Two hit cars;A person’s finger caught inside of a mousetrap;A chemical symbol with cans on the floor;A person holding something in both hands and they’ve been burned and have smoke coming out from the sides
-0809#Guard#5#A fire behind an enclosed glass;A person dressed in red and black holding a gun;An animal standing up;A dog staring
-0810#Silent#6#A snowy ground with trees;A mouth with a zipper on it;A woman signing to be quiet;A cartoon Ninja jumping
-0811#Tourist#7#A blue circle with the letter “I” in the middle;A woman behind a desk handing over keys;A woman with a black camera;A person holding a book while the other person holds a camera
-0812#Theatre#7#A stage with a red curtan and spotlight;A gold balcony;Two white masks;The Roman Collesium
-0813#Recycle#7#A person going inside a trash can;A person in cardboard sitting on a chair thinking of something;A person taking out the trash;A bunch of different colored trash bins
-0814#Border#6#A yellow sign with a man reading in the middle;The United States of America;A white fence;A black and white dog
-0815#Idea#4#A person sitting on a cloud;A yellow wire attached to a yellow light;A blue lightning strike;A woman thinking in front of a black chalkboard
-0816#Plaster#7#A person with a cast on their leg and it raised in bed;A person putting something on a wall;A person cutting something;A man holding up a white object
-0817#Scout#5#A cartoon drawing oif a man in a brown and grey uniform;A map with a compas on it;An eye looking through a key hole;A statue of a person with their hands over their eyes
-0818#Justice#7#A cartoon judge;A woman judge holding a file;A statue of someone holding a balancing device;A court hammer and books behind it
-0819#Craft#5#A satelite orbiting;A table with scissors and paper;A chef holding out their arm and yellow lights are flying out;A person making something with their hands
-0820#Filling#7#A person at the Dentist with their mouth opened;A slice of cake;A person handling a big machine;A big sandwich on a roll
-0821#Bounce#6#A person playing with a basketball;Chidlren in a playroom jumping;A child sitting on a red ball;A blue circle with an arrow going up down and then up
-0822#Conduct#7#A bunch of blue little squares with some blue going throug it;A person in scrubs and gloves handling chemicals in glass;A bunch if wire towers;A person with both their hands out and a stick in one hand
-0823#Spill#5#Coffee on a keyboard;Wine being poured in to a glass;A can with black liquid coming out of the bottom;A wine glass tipped over
-0824#Raise#5#A person playing at a green table with chips;A woman holding up her child;A woman exercising;A chart with a red arrow going up and down with two dates on the bottom
-0825#Princess#8#A cartoon girl in a pink dress;A green figure in a dress holding something out on their hand and leaning forward to it;A Pink castle on white clouds;A cartoon figure on a horse with a pink dress on
-0826#Finish#6#The bottom side of a car;A white can of paint and a brush;A blue plate with a fork and knife;A person with their arms raised at a red band
-0827#Rail#4#Different crossing train tracks;A boardwalk with a bars on the side;The side of a boat on the water;A Skateboarder skating
-0828#Church#6#The inside of a place;The outside of a place;The top of a place;A view of the water and bridge leading to a white place
-0829#Proof#5#A finger print;A gun next to a yellow number one and two;A pair of green boots;A cartoon detective with a pipe
-0830#Interior#8#A house on top of papers;A balding man sitting on a bench;A person driving a car;The inside of a home
-0831#Legend#6#Knights armor;An old book;A figure of a man that looks like Robin Hood;A bunch of different icons in a row
-0832#Dutch#5#Pink flowers;A windmill;A bicycle against the wall;A slice of yellow cheese with red skin
-0833#Braid#5#A woman fixing her glasses;A yellow and blue rope tied together;A military style hat;A white object tied with a red thread
-0834#Grow#4#A bar graph with a green arrow going up;A child playing with a baby;A red line on a chalk board going up with money bags under it;A woman in a black dress
-0835#Cake#4#A pink cupcake;A purple dessert with white flowers above it;A child with a dessert in front of her;A plate with cookies on it and something green in the middle
-0836#Setting#7#A ring with a green diamond;A blue square with a hammer and wrench crossing each other;A big table with glasses and flowers going across;A green field with trees
-0837#Cave#4#A white flag on a stick;A person inside of a cage going in to water;A drawing of an elephant running with a person behind it;Inside the underground with a hole letting in sunlight
-0838#Spirit#6#A cartoon ghost;A person meditating;Two people with their arms out on the beach;A child with his hand on his chin and a light attached to his head
-0839#Bench#5#A brown object out in the field;A workout machine;A football helmet;Pieces of scrapped word
-0840#Orchard#7#A field with tress;A woman lying on the ground eating an apple;A man carrying two baskets of apples;A basket of red apples on the grass
-0841#Roller#6#A brush with green paint on the white wall;A woman painting on the wall;A construction truck on pavement;Three different colored objects
-0842#Fork#4#A road split in to two with people walking on the road;A cartoon character holding up a sausage;A piece of sliced meat next to an eating utencil;A utencil on top of a music sheet
-0843#Tune#4#A device for the Piano;A big silver machine;A keyboard with blue and red knobs;A person playing an insrument with music notes coming out
-0844#Mow#3#A field with piles of cut grass;Grass being cut;A person on a machine cutting grass by a tree;A pile of cut grass next to grass that has not been cut
-0845#Earring#7#A girl with her hair in curls and an up-do;The chin and side profile of a woman;Jewelry and pins;A man wearing a vest and blue collared shirt
 0846#Peeling#7#Cutting potatoes;Apple slices;Vegetable cutter;Old peeling paper, wallpaper
-0847#Fake#4#A woman applying tanning lotion;Gold and silver coin;Dog wearing an afro;Acrylic nails
-0848#Momentum#8#Woman exercising in the gym;Speedometer;Person skiing over a jump;Silver metal balls
-0849#Root#4#Hand holding a plant;Tree trunk and green roots;Square root of x and y;Carrots covered in dirt
-0850#Fitness#7#Woman stretching;Group workout class;People jogging;Woman lifting dumbbells
 0851#Feeling#7#Person wearing a white mask;On Air Radio Sign;Girls making the “ssh” sign;Zippered lips
-0852#Thigh#5#Girl holding leg;Ribs and meat on bones;Stomach and midsection;Chicken breast and legs
-0853#Dentures#8#Fake teeth;Dentist office;Teeth cleaning;Man sleeping by bedside table
-0854#Jealous#7#Third wheeling;Girl and boy in classroom;Couple time;Feeling left out and envious
-0855#Idle#4#Koala bear;Chain saw;Girl waiting in airport resting on suitcase;Man laying down in hammock
-0856#Example#7#Gold cup trophies with graduation cap;Website design layout;LTD sign;Man holding gavel, judge
-0857#Sorrow#6#Man consoling his friend;Woman crying;Man kissing the forehead of girl;Upset and sad girl
-0858#Alliance#8#Red and white painted hands;Two gold rings;American and Confederate flags;International flags
-0859#Kitchen#7#Chefs cooking;Buffet line in the cafeteria;Inside of an industrial kitchen;Crockpot and bowl of food
-0860#Twins#5#Two men in white button ups;Brothers and sisters;Girl in yellow shirt and red skirt;Two blonde sisters
-0861#String#6#Blue yellow and orange yarn;Tennis racquet strings;Pieces of string and yarn;Ribbon or bow made of yarn
-0862#Adder#5#Rattlesnake;Green and white snake;Calculator with red pencil;Snake skin
-0863#Circus#6#Lion playing with a red and white ball;Red and white striped tent;Man in purple robe in circus ring;Clown juggling
-0864#Evolve#6#To Do List: Be Better;Two different versions of the same man on his laptop;DNA strands;Generations of human growth
 0865#Trim#4#Hair cut;Strand of red hair;Girl cutting her hair;Scissors cutting red ribbon
-0866#Follow#6#Camels in the desert;Detective examining the ground;Animals in a progression line;Yellow rubber ducks
-0867#Bold#4#Block red and white letters;Capital and lower case B;Robber and thief;Person rock climbing a cliff
-0868#Bright#6#Woman with blue eyes;Blue sky in the desert;Sun shining through the clouds and blue sky;Child in front of green chalkboard with light bulb
-0869#Tunnel#6#Subway tracks;Train tracks;Public transportation;Mouse mining underground
-0870#Tension#7#Cable rope;Man in suit pulling string;Boys eating pizza and watching sports;Couple laying in bed opposite of each other
-0871#Sing#4#Girl singing with guy playing the guitar;Chef singing with egg beater;Girl wearing headphones singing;Man in brown robe in the mountains
-0872#Talk#4#Girls talking on the couch;Blue and grey thought bubbles;Girl speaking into microphone;Green telephone
-0873#Failure#7#Cartoon business man;Man sitting down in front of red bar graph;Man in jail cell;Man looking upset with face in hands
-0874#Success#7#Thumbs up sign;Girl with arms wide open at work;Group of people holding dollar bills;Man sitting in front of rising graph
-0875#Cocktail#8#Man touching belly of girl;Rooster on the roof;Mixed fruit drink on the beach;Pena coloda with an umbrella
-0876#Nap#3#Red silk blanket;Baby sleeping on the bed;Girl reclining in her desk chair;Woman sleeping on office desk
-0877#Dentist#7#Teeth cleaning;Teeth whitening;Dentist office;Protection against cavities
-0878#Workshop#8#Couples in a cooking class;Sewing machine and fabric;Classroom;Woodshop
 0879#Envious#7#Sad painted egg;Girl eating pizza and other girl eating salad;Man looking on tablet;Couple at bar while other girl looks on
-0880#Sphere#6#Metal balls hanging from strings;The top of the Earth;Business conference;White circle with controls
-0881#Dye#3#Girl with red orange hair;Colored barrels of yarn;Tie dye shirts;Brightly colored bottle
-0882#Wipe#4#Girl writing on the chalk board;Man wiping off his forehead;Little girl blowing her nose;Yellow rubber gloved hand
-0883#Cheat#5#Large pocket bills;Girl crossing her fingers behind her back;Children blowing on golf ball;Couple beneath the sheets
-0884#Champion#8#Gold trophy cup;Soccer team carrying trophy;Horse racer and jockey;Championship boxing belts
 0885#Worried#7#Girl talking on the phone anxiously;Man looking stressed at work;Woman up right in bed;Upset child
-0886#Gossip#6#Two white figurines;Talking behind your back;Girls gossiping;Secret sharing
-0887#Minister#8#Man at his desk holding his glasses;Priest holding bible;Hands holding briefcase;Business man in front of book shelf
-0888#Mine#4#Person shoveling dirt;Coal miner;man holding an axe or pick;Girl shoveling noodles in her mouth
-0889#Maze#4#Large maze;Walls covered in ivy;Man looking at circle puzzle;Blue and purple tubes
-0890#Blaze#5#Grey smoking clouds and fire;House on fire;Building on fire;Bonfire
-0891#Happy#5#Girl holding digital camera;Boy smiling at computer;Couple embracing each other;Girl in blue nurse coat smiling
-0892#Sponge#6#Brown and yellow sponges;Dishwasher soap and cleaning supplies;Car washing;White frosting cake
-0893#Life#4#Brown bird’s nest;Green stem in the concrete;Flowers growing out of a mug;Baby smiling
-0894#Afraid#6#Boy in red shirt and glasses looking scared;Man with concern look on his face;Woman holding hands to her heart;Girl biting her nails
-0895#Drive#5#Hammer tools;Golf car driver;Steering wheel;Car engine electrical cords
-0896#Straight#8#Glass of whiskey or scotch;Concrete road down the desert;Male and female signs;Wooden paneling
-0897#Panic#5#Couple in bed with alarm clock;Red haired girl jumping on chair;Man stressed at work in-between piles of paper;Girl in red dress yelling
-0898#Stressed#8#Girl holding head at work;Frayed and broken rope;Man with cups of coffee at work;Girl with black hair holding head in hands
-0899#Leaping#7#A cat jumping in the air;A fish jumping out of its bowl;A person jumping from one bridge to another;A cartoon person jumping from bridge-to-bridge
-0900#Cleaner#7#One clean sponge and one dirty sponge;A person mopping the floors;A person cleaning the windows with a yellow sponge;A man and woman with cleaning products in front of them
-0901#Wiper#5#Windshield wipers on a car in the rain;A black windshield wipper;A black windshield wipper on a red car;A yellow wash-cloth on a red car’s hood
-0902#Swimming#8#A person swimming in a pool;An adult and a child in a pool with red bathing-caps on.;A person doing laps in a pool and coming up for air;A dog in the water
-0903#Single#6#A glass of a brown drink;A woman;A CD;A jug of milk
-0904#Opening#7#A person taking apart a can;A person looking out the window;A person cutting a red ribbon;A person with their hand on a microwave door handle
-0905#Ticket#6#A red paper object;Two blue and white paper objects;A white note with a symbol on it on the windshield of a car;A cartoon police officer writing something
-0906#Tin#3#A bunch of gold and silver cans;A chemical symbol;A person building a campfire;A cartoon figure all in silver
-0907#Drone#5#A bunch of animals on a piece of wood;An object flying in the sky;A bee on a plant;A child flying a toy airplane
-0908#Drama#5#Two black and white facemasks with one smiling and one frowning;People performing in costumes;People performing on stage;A stage with a red curtan
-0909#Rescue#6#A cartoon superhero;A dog lying on the grass;A firefighter climbing into a window;A helicopter with a lifter on it
-0910#Deaf#4#A woman with her hand on her ear;A dog with its paw to its ear;An older woman holding her hand to ear;A bunch of hand symbols
-0911#Caress#6#A woman petting a cat;A man and woman under the bed;A person touching the face of a baby;A man touching a woman’s face
-0912#Leader#6#A person with his hands in the air;A person’s hands with a conducter’s stick in one hand;A picture of George Washington;A man in uniform saltuing
 0913#Jealousy#8#A child with a sad face on while two adults hold a baby;A man punching another man inside of a club;A child with a sad face as a woman holds her stomach;Two mice who are angry at a mouse on top of a piece of cheese
-0914#Skipping#8#Two cartoon figures and one is jumping rope;A cartoon bunny jumping rope;A bunch of figures in a line with one person in black cutting the line;A woman walking and holding a bunch of items
-0915#Knock#5#A boxer with white gloves lying on the ground;A boxer standing over another boxer lying down;A woman standing in front of a door;A red bowling ball hitting a bunch of white pins
-0916#Greed#5#A baby stuffing their face;A woman stuffing her face with pasta;A man with dollar sign glasses;A man stuffing his face with a lot of food
-0917#Bullet#6#A gold object;A figure holding a red pen and clip board with writing on it;A white sheet of paper with writing dash marks on the side;A train riding on the tracks
-0918#Ramble#6#A woman holding a black phone away from her ear;A woman holding a phone in her hand;A person walking with sticks on both sides;A family walking on a path with the adults carrying backpacks
-0919#Caper#5#Two children making faces at each other;A group of people in gym outfits;A man with a red nose and small hat on;Food with green items around it
-0920#Tenor#5#A man with his arms out in a tuxedo;Three instruments lying against the wall;Binouclars;A statue of a man
-0921#Cage#4#A cartoon animal behind bars;A cage opened with feathers outside of it;A bike;Batting cages
-0922#Survey#6#A cartoon drawing of a clipboard with red checkmarks;A man with a yellow hat on holding a clipboard;Two figures talking and one is holding a clipboard;A construction worker looking through an eyeglass
-0923#Worry#5#An older woman with her hands on her head;A woman with her hands over her face;Two women with anxious faces;A person with their hands on their head in front of a computer with words around them
-0924#Compare#7#A balancing beam with a male and female figure appearing equal;A woman picking two items of the shelfs;A gold balancing beam;A chemist with green chemicals around him
-0925#Cheers#6#A bunch of people holding glasses up at a table;A woman celebrating with a clock in her hand;A bunch of people laughing and smiling with their thumbs up;A bunch of people holding beer glasses together
-0926#Snail#5#An animal that is sliding across the floor;A cartoon animal with a purple shell;An animal with its head raised;A cartoon animal on green grass
-0927#Tug#3#A boat in the ocean;A bunch of people pulling on a rope;A boat pulling a bigger boat;A child pulling on a rope
-0928#Peeled#6#A bunch of bananas with opened and sliced;A bunch of potatos and one with no skin on it;A banana with no skin on it;An orange with no skin on it
-0929#Scrub#5#A basket with hygene products in it;A person in a hospital outfit;A green cream;A person cleaning the floors with a mop
-0930#Radiate#7#People in Hazmat gear;A heater;The sun;A microwave
-0931#Climbing#8#Two babies on a ladder;People on top of a mountain;A person hanging off of ropes;A person hanging on the side of a cliff
-0932#Recorder#8#Music devices;A tape player;A remote on top of a black device;A microphone
 0933#Clown#5#A person with white makeup and big red hair and a red nose;A person in a yellow outfit;A person with different colored hair;A person wearing different colors all over
-0934#Host#4#A bunch of people sitting down in front of a stage;A person presenting something to people;A computer device attached to a bunch of others;A person cooking outside while people sit outside
-0935#Escape#6#A person in a suit breaking through bars;A cartoon person with a mask on and running with a person;A black ball with an angry face looking down at a cartoon figure;An orange maze with a yellow line directing
-0936#Stress#6#A man with his hands on top of his head;A person’s face behind a bunch of books holding up a sign that reads, “Help.”;A person lying down on a couch while a person sits up and talks to them;A person sitting at a desk with a bunch of papers and books in front of them
-0937#Drawing#7#A bunch of children sitting at desks coloring;A woman and child sitting at a table coloring;A painting;A person’s hand painting
-0938#Scraper#7#A person cleaning their windshield;A person with a red object taking off snow;A tool with a yellow handle;A cartoon figure cleaning a window
-0939#Attach#6#A blue icon with a paperclip on it;A person’s hand clipping on a green rope;A silver stapler;A bunch of different colored ropes tied together
-0940#Fear#4#A person with his hands in his mouth;A man with his hands in his mouth as the woman is saying something to him;A man with his arms in the air;A man and woman in the movie theater and the woman is looking away from the screen
-0941#Dive#4#A person jumping into the ocean;A person swimming at the bottom of the ocean;Another person jumping head first in to the ocean;Scuba diver
-0942#Snip#4#Plyers cutting hair;Scissors cutting red ribbon;Red haired woman cutting hair in mirror;Man cutting hair
-0943#Support#7#Three helicopters flying in the air;A bunch of people with their hands all touching each others in the middle;A person overlaping his hands;A woman with a headset on
-0944#Comedy#6#A man holding up a gold face mask;A cartoon clown hat;A facemask with glasses, a nose, eyebrows, and a mustache;A bunch of people wearing 3-D glasses
-0945#Swim#4#A Jellyfish in the ocean;A bunch of Dolphins in the ocean;A little girl swimming;A woman holding a child as it swims
-0946#Masked#6#People in costume;A person wearing a brown hood and a mask;A person wearing a gold and black mask;A person wearing a mask and they have gold gloves
-0947#Bush#4#A row of green plants;Green plants by brown mountains;A cartoon figure walking by bushes and one is burning;A green plant object
-0948#Growing#7#A child in a blue shirt;A person watering a plant that is pointing up;A bar graph with a person standing on the tallest one;A plant that is blooming
-0949#Envy#4#A man and woman holding each other while another woman looks on;A man and woman embracing as other people look on;A man eating food and a woman looking at him eating while holding an apple;A cartoon man in all green with an angry face
-0950#Crossing#8#A cartoon figure walking across the street;A person walking across a thin piece of space;A person’s fingers crossed;A cartoon drawing of people walking across the street
-0951#Room#4#The inside of a house;A boiler area of a house;A white path with black objects on the;A white light shinning on a white desk
-0952#Amazon#6#A computer device on top of books;A water pathway next to the woods;Two birds on a branch;A computer keyboard with a green key
-0953#Junction#8#Two street lights. One with a red light and one with a green light;A bunch of railroad tracks crossing each other;A bunch of highways crossing through each other;A four way intersections
-0954#Orbit#5#The earth with a satelite flying over it;A glass eye ball;The earth with circles going around it;The Solar System
-0955#Floss#5#A red piece of string;A person with their hands in the sink;A piece of string next to a toothbrush;A woman cleaning her teeth
-0956#Lounge#6#A gold airline pin;A person lying on the couch;A living room;Two people sitting down and reading
-0957#Kiwi#4#A grey bird with a long beak;A black and white picture with three birds on it;A white background with a blue island on it;A fruit cut in half that is green inside
 0958#Font#4#A person writing with a pen;A big letter A;A bunch of letter jumbled together;A bunch of symbols on a white background
-0959#Profile#7#A Login button;A figure holding a suitcase next to a magnify glass;A figure of a person’s head facing three other different colored faces;Underground view of dirt and grass
-0960#Comfort#7#A baby in blue blankets;A bed with white pillows;A woman holding a baby;A bed with white sheets in a bed
-0961#Habit#5#A man biting his nails;A woman playing with her hair;Someone washing their hands;A person smoking a cigarette
-0962#Rush#4#An orange ambulance;A person with yellow rope;A cartoon figure running with a weird face on;A bed og green weeds
 0963#Salmon#6#A fish with its mouth opened;A red area with a silver top;A raw piece of fish;The same photo of a raw piece of fish
-0964#Toast#5#A bunch of hands with their glasses raised;Sliced white bread;A bottle with the cork popping out;A silver toaster oven
-0965#Remove#6#A red icon button with a white X in it;A man with a red shirt on and a black tie;A woman looking at herself in the mirror;A person about to get kicked from behind
-0966#Fur#3#A baby sleeping;A woman with her hair up;A brown furry animal;A dog in the woods
-0967#Collage#7#A brown piece of paper with writing on it;A table with colored paper on it and scissors;A piece of paper with drawings of Bees on it;A group of people in pictures
-0968#Aluminum#8#A silver background;A silver can;A rolled up piece of tinfoil;A green garbage can
-0969#Hook#4#A Pirate;A worm;A hanger for clothes;A black background with diamond letters
-0970#Country#7#A blue and yellow flag blowing in the wind;A white background with a British flag;A woman playing a guitar;A green field with blue skies
-0971#Bud#3#A row of brown bottles;A green plant with a red inside;A dog licking a man in scrubs;A white flower on a stem
-0972#Chicken#7#A person cooking;A woman covering her face in a movie theater;A bunch of meat pilled up;A rubber animal
-0973#Quality#7#A stamp with a red marking on the bottom;A chef in the kitchen;A person with their thumb sticking up;A Gold medal with a red ribbon on the bottom
-0974#Straw#5#A bunch of colorful objects;A wall made of an object;A child playing in a field;A farm with rolled up pieces of hey
-0975#Bottle#6#A black top with a white bottom;A purple thing of perfume;A clear object;An object floating in the water
-0976#Curve#5#A man in front of a graph;A person laying on the side in their bathing suit;A road that is turning with trees on the side;A blue and white area that is separated
-0977#Pitch#5#A man in a tuxedo and holding his arms out;A soccer field;A bunch of people in a conference room with a man presenting;Children playing baseball
-0978#Logo#4#Two hearts overlapping one another;A Thumbs Up icon;A Sun and a green and blue line under it;A circle of blue, purple, and red
-0979#Surf#4#A man holding up a surfboard;A woman on her laptop;A beach;A person Windsurfing
-0980#Split#5#A Banana with ice cream on it;An ax chopping wood;A woman stretching;A woman touching her hair
-0981#Pod#3#A Pea split open;A spaceship;A bunch of coffee beans with three different colored objects on top of it;A woman with her headphones in
-0982#Mat#3#A purple object rolled up;A bunch of different carpets;A woman with bright red hair;An object that reads “Welcome”
-0983#Post#4#An envelope with an @ inside of it;An envelope that is opened;A man is a brown outfit holding a package;A stamp
-0984#Pump#4#A woman breathing into something;A bunch of machines;A green water well;A woman working out her arms
-0985#Table#5#A pen on top a white piece of paper with writing on it;A chemistry chart;A list of Departing flights;An object with chairs around it
-0986#Academic#8#A stack of the books;A woman with a cap and gown on;A brain;A man teaching students
-0987#Pack#4#A hand of cards;A red backpack;A greyish area;A person putting stuff in a bag
-0988#Dip#3#A person dipping their feet in to a pond;A gold chip with sauce on it;A hand putting something into a green area;A strawberry with chocolate on it
-0989#Oak#3#A piece of wood;A tree with green leafs;A wooden drawer;A green leaf
-0990#Dish#4#A satellite pointed in the sky;A white plate;A plate with food on it;A chef preparing a plate
-0991#Insert#6#A person putting something on a door;A person putting a white envelope in a box;Two computer keys;A woman holding up a red object
-0992#Express#7#A man holding a box;A box;A white train;A woman in a suit speaking to some one
-0993#Egg#3#A brown object cut in half;An object with a white outside and yellow inside;A chicken next to brown objects;An object with different colored spots on it
-0994#Adjust#6#A wrench;A person using a scale;A person touching a board;A person in front of a shelf with glasses behind them
-0995#Signpost#8#A blue and white sign;A blue and white sign with another sign below it;A red Stop sign;A sign in the grass
-0996#Potato#6#A blue basket with food in it;A person drinking on the couch with a bowl of food;A pile of food with the skin on it;A food cut in half with cream inside of it
-0997#Style#5#A woman with a black hat on;A woman with a black object around her neck;A row of colorful dresses;A purple couch
-0998#Cart#4#A person driving a toy car;A golf car;A shopping device;A cartoon horse carrying an object behind them
-0999#Death#5#A graveyard;A man in a black robe with an object in their hand;A rose with a black spot in the middle;A Skull and crossbones
-1000#Beef#4#A pile of beef jerky;A cooked piece of meat;A cow;A cartoon hamburger
-1001#Sage#4#A green leaf;A tan object;Two people in outfits;A white bowl with food in it
-1002#Layer#5#A cartoon globe cut in a corner;A white dish with food on it;A slice of chocolate cake;A woman in a grey sweatshirt
-1003#Tuna#4#A raw piece of fish;A can with food in it;A Fish;Sushi
-1004#Crew#4#A bunch of people in orange outfit and a woman smiling;A group of four people dancing on their hands;A flight attendant posing by seats;A man sailing on a boat
-1005#Station#7#A Police prescient;A train waiting area;A radio;A battle area with bags in front of it
-1006#Brace#5#A man in a hunched over position;A person with braces on their teeth;A black knee contraption;A tool
-1007#Return#6#A person dropping coins in to another hand;A woman with bags entering a building;A computer key;A desk
-1008#Stem#4#A champagne glass;A clear board with writing on it;A purple flower;A bunch of green blobs attached to each other
-1009#Joke#4#A person with a red and yellow sweatshirt with a microphone in their hand;A clown hat;A man laughing;An older man making funny faces
-1010#Edit#4#A person with a ruler and a red pen;A computer;A picture of a brain and someone erasing something;Three people talking at a desk with a camera on it
-1011#Lost#4#A person showing off how much weight they lost;A person on an orange chair with their hands in their head;Two people looking at a map;A woman laying in the corner looking through a bag
-1012#Luxury#6#A big building;A white spoon with black food in it;A bottle with two glasses next to it;A very big and shiny bathroom
 1013#Fade#4#A man with a bald head and wearing a black tie;A pink flower;A person with their hand on a board;A hill with the sun going down
-1014#Smear#5#A person rubbing white stuff on to someone’s back;A child pointing at something;A child playing with a toy;A piece of bread with cream on it
-1015#Maple#5#A person’s hands holding out a tree with red leafs;A tree with a silver bucket attached to it;A colorful leaf;A stack of pancakes
-1016#Trace#5#A cartoon figure searching for something;A person holding a knife with blood on it;A person leaving foot print marks;A finger print with a magnify glass over it
-1017#Gum#3#A child blowing a bubble;A tree with something under it;A leaf with white pieces of chewing items on it;A pair of teeth
-1018#Inflate#7#A person blowing up a balloon;A red arrow going up;A hot air balloon with a fire under it;A bouncy area for playing
-1019#Flag#4#A bunch of poles with objects on them;An object;A black and white object;A bunch of people hitch-hiking
-1020#Image#5#Two people sitting next to each other;A woman looking in the mirror;A person thinking of something;A computer displaying something
-1021#Stand#5#A person standing and holding a computer;A bunch of people protesting;A food area;A waiting area in white
-1022#Herb#4#An area with green plants;A clear jar with something in it;A green leaf;A bunch of people cooking with one another
-1023#Laugh#5#A yellow face icon smiling;A child with a purple hat on;A man in a black tie laughing;A woman with two L’s written on her cheeks
-1024#Coast#5#A man laying down;A beach;A car on the road;Italy
-1025#Safety#6#Yellow signs spread around a room;A bike helmet;A construction worker with a blue helmet on and a yellow jacket;A man with a yellow helmet on
-1026#Contact#7#A blue icon with a phone in the middle;Two people wrestling;A person touching their eye;A green envelope and the @ sign in it
-1027#Consume#7#A woman eating with a variety of food in front of her;A person holding a black pump;A woman holding a bunch of shopping carts;A bunch of people with colorful drinks in their hands
-1028#Donate#6#A green card;A piece of cardboard with money on it;A person donating blood;A blue box with money rolled up in it
-1029#Domestic#8#A cat lying down;A cartoon maid in a maid’s outfit;A woman with yellow gloves on;Two people yelling at one another
-1030#Tackle#6#A person catching a football;A person fishing;Two people soccer in the mud;A wheel with a piece of rope around it
-1031#Brush#5#A person brushing their teeth;Someone brushing their dog with a comb;A cartoon animal holding a broom;A comb
-1032#Runner#6#A person holding a light and black clipboard;A table cloth;A person on a track;A red carpet
-1033#Site#4#A green field with trailers on them;An area with some stuff on it;A green area with something silver on it;A person staring at a globe popping out of their computer
-1034#Deflated#8#A tire with no air in it;A basketball with no air in it;A woman holding up an empty balloon;A person with their hand on their head
-1035#Range#5#An almost empty tank of gas;A road way;A green area with a chicken on it;A person shopping with a cart
-1036#Drip#4#A glass above a leaf;A row of clothing on a string;A red candle;A drain with little bits of water coming out
-1037#Groove#6#A woman dancing with her headphones on;A bunch of people trying to hitch a ride;A field with dirt in rows;A man with an afro and a microphone
-1038#Trick#5#A person holding their hands out with smoke coming out;A bunch of people in Halloween costumes;A person holding a hand of cards at a green table;A person kicking a soccer ball
-1039#Fashion#7#Three cartoon women wearing colorful outfits;A woman with a grey dress on;A bunch of barcodes;A woman by a rack of clothing
-1040#Plant#5#A row of electrical towers;A person reaching for money out of a wallet;A person holding up garden objects;A green object in dirt and a white holder
-1041#Cone#4#Four different colored objects;Four different types of ice cream on one object;A bowling ball hitting all the pins;Colorful game pieces and a dice.
 1042#Gym#3#A man working out at the gym;A group of kids hanging on the bars;A person on the treadmill;A girl on a stationary bike
-1043#Juggle#6#A girl juggling different ideas;A boy juggling colored balls;A man tossing balls;A juggler
 1044#Trapeze#7#A girl hanging from a swing;A girl hanging upside down from a swing;A girl in all black dangling from ropes;A girl in white twisting her body
-1045#Bouncing#8#Cartoon children bouncing on balls;A person jumping on the trampoline;Basketballs rolling;A cartoon person playing tennis
 1046#Ballet#6#A ballerina;A girl in a tutu;A girl jumping through the air;Pink ballet shoes
 1047#Burglar#7#A man with a black mask hiding behind a door;A crook on the roof;A man with a black leather jacket and cane;A robber breaking into a door
 1048#Convict#7#A prisoner behind bars;Black and white striped pants;A hand reaching out behind bars;A person sitting in a jail cell
@@ -1194,9 +252,7 @@
 1194#Beanbag#7#A large purple couch;A blue bean bag chair;A girl sitting on a red chair;Colored balls
 1195#Bathrobe#8#The indoor of a spa;A man and woman wearing robes;A sick man in a maroon sweater;A girl in her bathroom
 1196#Candle#6#Christmas decorations;A red velvet cupcake;A burnt piece of paper;Pink roses and candle
-1197#Dead#4#Crosses on a hill in the sunset;An outline of a body on the cement;A statue of an angel with wings;A wooden coffin
 1198#Cat#3#A Siberian tiger;An orange tabby cat;A grey tabby kitten;A grey cat
-1199#Reel#4#A movie reel;A man fishing on a pond;A fishing hook;A roll of film
 1200#Desert#6#A flat sandy dune;A cracked desert floor;The sun setting over the desert;Camels in the wild
 1201#Feet#4#The bottoms of people’s feet laying in the grass;Tiny fish swarming around feet;A pair of baby’s feet;Bare footed
 1202#Cork#4#Cardboard slab;A bottle of champagne;A wine opener;A person opening a bottle of wine
@@ -1374,10 +430,6 @@
 1374#Corner#6#White paper;Girl with hoop earrings;Girl cornered by men;Car racing
 1375#Whale#5#Jumping big whale;Whale leaping out of ocean;Killer/Orca whale (Free Willy);Cartoon whale
 1376#Wolf#4#Dog with yellow eyes;Little red riding hood;Wolf howling at the moon;Wild dog in the woods
-1377#Teeth#5#A person with yellow and white teeth;Dentures;A dog barking;A bunch of silver gears
-1378#Shuttle#7#A birdie and a racquet;A bus;A spacecraft in the air;A yellow boat
-1379#Depart#6#A woman staring at an airplane taking off;A green icon with a white airplane;A woman carrying her luggage;A woman sitting on a chair with a suitcase
-1380#Hair#4#A variety of different color hair;A woman with blonde hair;A person washing someone’s hair;A woman with long brown hair
 1381#Sun#3#A sun shining on green grass;A woman applying san screen;A watch displaying the weather;A woman with sunblock on her back
 1382#Neck#4#People doing stretches;A woman touching her neck;Two bottles;A man touching his back
 1383#Head#4#A person with different colored strings touching their head;A skull;A woman touching her head;A woman touching the sides of her head
@@ -1534,7 +586,6 @@
 1534#Fiction#7#A typewriter with white paper;A person with virtual glasses;A typewriter;A spaceship on a planet
 1535#Creator#7#A person making a sculpture;A planet;A person making something out of clay;A drawing
 1536#Bedroom#7#A bedroom;A room with a green wall;A bedroom with a bed in the middle;A bedroom with a maroon wall and a bed in it
-1537#Friends#7#Three women smiling;Two women hugging and smiling;A group of people peaking out from a wall;A bunch of people hanging out
 1538#Manager#7#A man pointing his finger;Two men helping each other out;A man talking to a woman with a microphone;A woman standing in front of two people
 1539#Haircut#7#A person cutting a woman’s hair;A woman getting her haircut;A person getting their hair trimmed;A woman getting her hair fixed
 1540#Oatmeal#7#A bag of food in it;A bowl of food;Two stacks of cookies;A bowl above a blue blanket
@@ -1615,9 +666,9 @@
 1615#Crow#4#A cartoon Scarecrow;A blackbird;A blackbird on a stick;A black bird flying
 1616#Fade#4#A row of buildings;The front of a building;A person smoothing over a surface;A person with white face paint on and a black hat
 1617#Pan#3#A woman with an object on her head;A black object used for cooking;A person holding a black object;A dustpan
-1618#Brass#5#A cartoon drawing of night time on the ocean;A Witch on a broomstick;A view of the Earth;A man in a spacesuit
-1619#Fresh#5#A stack of food;A pan with food in it;A field in water;A bowl with food in it
-1620#Step#4#A room with furniture and window;A man lying on the couch;A cartoon figure by the couch;A child on the couch
+1618#Brass#5#A lion head on the door;Three Weights;A circle made of metal;A musical instrument - Trumpet
+1619#Fresh#5#A stack of food;Two slices of fish with lemon and flowers;A girl holding baked cake;Raw shellfish on a disk
+1620#Step#4#A couple dancing;A group of people practicing;A stair;A narrow road between buildings
 1621#Soap#4#A bunch of bubbles;A sink and someone washing their hands;A person washing a car;Neatly tied bars of cleaning devices
 1622#Sock#4#A cartoon object blowing in the wind;A puppet;An old article of clothing;A person holding out a smelly article of clothing into the washing machine
 1623#Toy#3#A child holding an object;A child in a blue shirt holding an object;A room filled with objects for children;A yellow, rubber-ducky
@@ -1629,47 +680,9 @@
 1629#Engine#6#A person pouring a liquid into a car’s opening;A person fixing the inside of a car;The inside of a car;An old drawing of an old train
 1630#Sack#4#A badge bag;A pinkish bag with red items on the right of it;A woman holding a brown bag;A Santa running with a red bag over his shoulder
 1631#Road#4#A street with buildings in front of it;Four icons;A side view mirror for a car;A pathway towards an arch
-1632#Lake#4#Three boats on a lake;A lake with a lot of trees around it;A man with his thumb up;A cartoon drawing of a Duck with Ducklings
-1633#Act#3#A bunch of bubbles;A sink and someone washing their hands;A person washing a car;Neatly tied bars of cleaning devices
-1634#Soda#4#A cartoon object blowing in the wind;A puppet;An old article of clothing;A person holding out a smelly article of clothing into the washing machine
-1635#Frame#5#A child holding an object;A child in a blue shirt holding an object;A room filled with objects for children;A yellow, rubber-ducky
-1624#Slip#4#A pink dress;A person about to step on a banana peel;A hill;A person that fell on the ice
-1625#Soup#4#Asparagus next to a bowl with a yellow substance in it;A Chef holding a spoon;A row of bowl with the same substance in it;A big pot with a substance in it
-1626#Silk#4#A white cloth;A bunch of different colored threads;A branch with a white object on it;A spider-web
-1627#Size#4#A cartoon Giraffe being measured;Measuring tape with a shoe next to it;A person measuring their belly;A person stretching out their jeans
-1628#Recess#6#Children playing in the park;A swing;A hallway with a white door in the middle;A stone wall with an opening where a planet is placed
-1629#Engine#6#A person pouring a liquid into a car’s opening;A person fixing the inside of a car;The inside of a car;An old drawing of an old train
-1630#Sack#4#A badge bag;A pinkish bag with red items on the right of it;A woman holding a brown bag;A Santa running with a red bag over his shoulder
-1631#Road#4#A street with buildings in front of it;Four icons;A side view mirror for a car;A pathway towards an arch
-1632#Lake#4#Three boats on a lake;A lake with a lot of trees around it;A man with his thumb up;A cartoon drawing of a Duck with Ducklings
-1633#Act#3#A cartoon character on stage with three spotlights on them;A bunch of black face masks;A person performing theater;A white figure holding a mask
-1634#Soda#4#Four bottles of Soda;A glass with ice and soda in it;A dog holding popcorn and soda;A cartoon soda machine
 1635#Frame#5#A wall filled with picture frames;A person carrying a big picture frame;A woman making a picture frame shape with her hands;A gold picture frame
-1636#Wool#4#A bunch of sheep;A pile of different colored wool;A green basket filled with wool;A green basket with different color wool inside of the basket and outside the basket
-1637#Year#4#The year 2013 in different colors;A calendar that read 2014 on the bottom in red;A white background with a colorful 2013 written in front of it;A black background with a blue 2013 written in front of it
-1638#Jam#3#A pastry and jam;A holder with jam inside;A traffic jam;Three jars with different kinds of jam inside
-1639#Croc#4#A crocodile;Cartoon crocodile;A pair of pink shoes;A drawing of a crocodile
 1640#Bone#4#An X-Ray of a hand;A cartoon bone;Two skeletons;A doctor looking at an X-Ray
-1641#Cracker#7#A figure trying to break into a safe;A cooking pan with food on it;Two bowls with food in it;A pile of wheat-cakes and a bunch of wheat
 1642#Academy#7#The outside of a school;A gold statue;A bunch of people in a classroom;A black graduation hat with a diploma
-1643#Yard#4#A person cleaning their outside deck;A lawn chair with a table on the grass;A car parking lot;A man cooking on the grill
-1644#Release#7#A person shooting a bow and arrow;A seatbelt and a seatbelt sign;A bird cage that is left opened;A movie clipboard with the word Premiere on it
-1645#Toe#3#A person’s feet with painted toe nails;A person’s feet with a toe tag on it;A person crossing their feet;Cartoon feet with a toe tag on it
-1646#Wren#4#A bird on a rock;A bird on a grey rock;A drawing of a bird in black and white;A brown bird on a piece of wood
-1647#Grape#5#Two bottles of wine with grapes;A vine with grapes on it;A vineyard with grapes on a vine;Red grapes
-1648#Gear#4#A bunch of sheep;A pile of different colored wool;A green basket filled with wool;A green basket with different color wool inside of the basket and outside the basket
-1649#Mineral#7#The year 2013 in different colors;A calendar that read 2014 on the bottom in red;A white background with a colorful 2013 written in front of it;A black background with a blue 2013 written in front of it
-1650#Hose#4#A pastry and jam;A holder with jam inside;A traffic jam;Three jars with different kinds of jam inside
-1639#Croc#4#A crocodile;Cartoon crocodile;A pair of pink shoes;A drawing of a crocodile
-1640#Bone#4#An X-Ray of a hand;A cartoon bone;Two skeletons;A doctor looking at an X-Ray
-1641#Cracker#7#A figure trying to break into a safe;A cooking pan with food on it;Two bowls with food in it;A pile of wheat-cakes and a bunch of wheat
-1642#Academy#7#The outside of a school;A gold statue;A bunch of people in a classroom;A black graduation hat with a diploma
-1643#Yard#4#A person cleaning their outside deck;A lawn chair with a table on the grass;A car parking lot;A man cooking on the grill
-1644#Release#7#A person shooting a bow and arrow;A seatbelt and a seatbelt sign;A bird cage that is left opened;A movie clipboard with the word Premiere on it
-1645#Toe#3#A person’s feet with painted toe nails;A person’s feet with a toe tag on it;A person crossing their feet;Cartoon feet with a toe tag on it
-1646#Wren#4#A bird on a rock;A bird on a grey rock;A drawing of a bird in black and white;A brown bird on a piece of wood
-1647#Grape#5#Two bottles of wine with grapes;A vine with grapes on it;A vineyard with grapes on a vine;Red grapes
-1648#Gear#4#A stick shift;A bunch of different kind of gears;A black and silver stick shift;A person using a wrench on a bike
 1649#Mineral#7#A water bottle;An orange substance;A bunch of white pills spilling out of a bottle;A purple crystal
 1650#Hose#4#A green hose with drips of water coming out;A person putting out a fire;A woman watering plants;A pink pair of panty-hose
 1651#Seatbelt#8#A woman wearing her seatbelt on a plane;A road with two hands clicking a seatbelt;A teddy-bear with their seatbelt on;A woman putting her seatbelt on in the car
@@ -1908,7 +921,6 @@
 1884#Airbag#6#Man in the driving seat of a car with an open airbag;A cloth on the steering wheel;Symbol of an airbag;An open airbag
 1885#Shield#6#Human figure holding a shield;A man hiding behind a red umbrella;Masked man holding a sword and a shield;A man with glass in front of him
 1886#Buffet#6#A table loaded with food dishes;Table full of different kinds of food;A restaurant;A lady getting food from the dishes on the table
-1887#Sandal#6#A pair of sandals;Orange flowers on a pair of sandals;A blue sandal;A black pair of shoes
 1888#Diary#5#A feather and papers;A black diary;An open diary and a pen;A person writing in a diary
 1889#Rafting#7#A man travelling on a raft in the water;Men in a raft;A raft in the middle of the water;Group of people with oars sitting in a raft
 1890#Tattoo#6#A man with tattooed arm;A tattoo of a skull and a wine bottle;Tattoo being pierced on a person;A man with a tattooed back
@@ -2270,15 +1282,8 @@
 2246#Twinkle#7#Magical light;Magical light;Universe;Colorful light in the hands
 2251#Triangle#8#An orange and red triangle;A bunch of different colore triangles;A silver triangle with a handle;A white triangle with another triangle in the middle
 2252#Skull#5#A blue bandage;A white bandage with scissors;A person putting a bandage on someone’s leg;A person putting a cast on someone’s leg
-2253#Beard#5#A wooden roof;Wood roof on top of a brick house;A person on a kayak;A wooden roof with the sky showing
-2254#Web#3#A spider on web;A globe with lines around it;A web with a green brackground;A URL for a website
 2255#Skull#4#A black skull and bones;A blue skull and bones;A gold skull;A white skull
-2256#Egypt#5#A Camel;A bunch of Pyramids;A design;A bunch of Ancient artifacts
-2261#Write#5#Little girl in pigtails;Silver pen;Person signing their name;Woman’s hand writing on paper
 2262#Railway#7#Crossing railroad tracks;Railroad track;Railroad tracks;Train riding on railroad tracks
-2263#Hotel#5#A clean room with a bed;Resort and a pool;A neatly made bed;Concierge
-2264#Author#6#A guy thinking;Typewriter;Man with pen and book;Shakespeare
-2265#Tram#4#A train rushing by;A trolley;Trolley caution sign;A train
 2266#Wagon#5#A wooden cart;Ox cart;Cowboy guarding a wagon;Horse-drawn wagon
 2267#Appendix#8#Paperclip button;Digestive system;Digestive system;Digestive system
 2268#Reptile#7#Snake;Chameleon;Turtle;Lizard
@@ -2375,40 +1380,11 @@
 2360#Karaoke#7#A man in a red shirt singing into a microphone;A collage of people at a bar;A girl with an orange shirt singing into a microphone;A group of people singing into microphones
 2361#Atom#4#Atom structures;An atom;An orange atomical structure;An abstract atom structure
 2362#Roof#4#Orange houses;A man setting down solar powered panels;A man laying down insulating;A man roofing
-2363#Demon#5#A hand adjusting a radiator setting;A car radiator and engine;A radiator;A wrench next to a radiator
-2364#Luggage#7#Hand-drawn wings;A buterfly;A statue of a baby angel;An eagle flying in the sky among the clouds
-2365#Wallet#6#A bowl of stir fry with red chopsticks;An elephant with drawing on its face;The Taj Mahal;A boat with red sails
-2354#Balcony#7#A balcony of a home;A balcony with lots of potted plants and flowers;A balcony with a chair and potted flowers;The view of a theater from the stage
-2355#Gateau#6#A crème cake with a slice cut out;A slice of chocolate cake with raspberries;A slice of decadent cake;Chocolate cakes
-2356#Yacht#5#An old couple on the edge of a boat;A large boat on the ocean;The sails of a yacht;A toy sailboat
-2357#Lab#3#A scientist extracting a liquid from a vial;A microscope;An eyedropping adding blue liquid to vials;A scientist carefully adding solution to a vial
-2358#Quarry#6#A truck with a detachable back;A truck dumping dirt into another truck;An extractor;A pile of dirt
-2359#Palace#6#A palace;A palace in Asia;A grand palacy;A palace lit up in night
-2360#Karaoke#7#A man in a red shirt singing into a microphone;A collage of people at a bar;A girl with an orange shirt singing into a microphone;A group of people singing into microphones
-2361#Atom#4#Atom structures;An atom;An orange atomical structure;An abstract atom structure
-2362#Roof#4#Orange houses;A man setting down solar powered panels;A man laying down insulating;A man roofing
 2363#Demon#5#A red devil demon;A grey demon in a green cloak;A blue monster with horns;A demon in hell
 2364#Luggage#7#A man in a suit rolling a blue suitcase;Rainbow luggage tags;Green and yellow suitcases on a beach;A woman kneeling on an overstuffed brown suitcase
 2365#Wallet#6#Brown wallet with cash;Blue laptop case;A cd in a white sleeve;A small cartoon figure holding a wallet
-2366#River#5#River surrounded by wetlands;River in front of Big Ben;A marina along a River;A river in front on Eiffel Tower
 2367#Jagged#6#A crack;Mountains with snow;A ripped piece of cardboard;A jagged face of a mountain
-2368#Guards#6#Queen’s guardsman;Queen’s guard marching;Soldiers in uniform;Soldier with a riffle
-2369#Arcade#6#“Game Over” on an arcade machine;San Luca Arcade in Italy;An arcade in Germany overlooking water;A market in London
-2370#Atlantic#8#The world;Waves crashing into the shore;Water flowing into a beach;A man getting ready to surf
-2371#Xmas#4#A wrapped gift;Christmas tree in front of fire place;Santa Claus;Christmas pudding
-2372#Herbs#5#Herbs in front of a knife;Rosemary;Herbs hanging above spices;Basil leaves
-2373#Baseball#8#Baseball uniforms;Bats and baseballs;A Baseball;A baseball diamond
-2374#Vatican#7#Vatican city;Vatican city as dusk;St. Peter’s square;A statue of the pope
-2375#America#7#American flag in the wind;American pie;Statue of liberty;New York City
 2376#Alaska#6#Baked Alaska;Alaskan malamute puppies;Grizzly bear eating a fish;American flag in front of snow covered mountains
-2377#Jacket#6#A buttoned yellow jacket;A woman in a purple blazer;Dr’s coat/Lab coat;A puffy red jacket
-2378#Fishing#7#A bear and a fish;A fishing boat;A man fishing;A man fishing on the sea
-2379#Atlas#5#A statue holding a globe;Two maps;A globe;A magnify glass on a map
-2380#Zeppelin#8#A cartoon Zeppelin;A white Zeppelin;A yellow Zeppelin;A drawing of a Zeppelin
-2381#Honolulu#8#A city over the water;A red flower;A red board;An island
-2382#Annoyed#7#A man and a woman arguing;A man frustrated;A child yelling;Two kids butting heads
-2383#Bagpipes#8#A cartoon drawing of bagpipes;Three people playing bagpipes;Bagpipe players;Three people playing bagpipes
-2384#Zeus#4#An area of land;A drawing;A cartoon drawing of Zeus on a cloud;A drawing of a hand with an object in it
 2385#Hairy#5#A bull;A foot with hair;An object on land;A face with blue hair
 2386#Icing#5#Four cupcakes;A plate with a bunch of cupcakes on it;9 Cupcakes;4 cupcakes
 2387#Skeleton#8#A building being built;A woman showing another woman something;A spine;An X-ray
@@ -2450,7 +1426,6 @@
 2424#Tango#5#A person in a red dress dancing;People in the shadows dancing;Two people in red dancing;Two people dancing
 2425#Money#5#A stack of money in gold coins;A gold coin with the letter B on it;A hand holding out money;A gold faucet with gold money coming out of it
 2441#Wave#4#A woman with her hand up;A surfer;A seagull;A girl on a scooter
-2442#Round#5#The earth with light beams;an orange ball;Someone’s stomach;A basketball
 2443#Bicycle#7#A red bike bell;a bicycle seat;WD-40 on a bike chain;a bike lock
 2444#Pair#4#A yellow ladybug and a red ladybug;Pink striped socks;A pair of working boots;Two cheeseburgers
 2445#Can#3#A milk pail;An aluminum can;A blue gas can;Garbage
@@ -2470,9 +1445,6 @@
 2459#Party#5#Girls using party favors;glasses with champagne;Kids at a birthday party;Two girls dancing
 2460#Date#4#Calender with pins in it;two glasses of white wine;A man dreaming of a woman;Prunes
 2461#Wine#4#A bottle of wine and a sunset;Grapes;Cheese, a glass of wine, and grapes;Corks
-2462#Dirty#5#Two muddy pigs;A man kicking water at a bride;A woman doing her laundry;A dirty bike
-2463#Ball#4#Basketball;Golf ball;People dancing;Soccer ball
-2464#Fish#4#A fish;A hook;fish for dinner;A pier
 2465#Pink#4#A purple unicorn;A pair of feet hanging out of a car;A moody baby;Pink roses
 2466#Hero#4#A man on a horse;A kid dressed as a superhero;A man with a cape on a hill;A muscular man in a superhero costume
 2467#Drink#5#Baby with bottle;A woman drinking water;A woman sipping coffee;A cat licking water
@@ -2508,57 +1480,6 @@
 2497#Strong#6#The Arc de Triomphe;The Eiffel Tower against the Paris landscape;A dog with curly moustache, bottle of wine, and baguette;Statue flying a red, white, and blue flag
 2498#Overkill#8#Exhaust pipe emitting black smoke;Wheel with thick tires and shiny hubcaps;Close-up of an engine;Person behind the wheel of an automobile
 2499#Catch#5#Person cupping their hand behind their ear;Close-up of a nose;High resolution shot of an eye and eyelashes;Person smiling to show their lips and teeth
-2500#Bow#3#Family reflected in solar panels;Collection of old mobile phones;A single battery with positive and negative ends marked;Microscopic organisms
-2501#Fan#3#Woman in a blue shirt thinking;Coral reef underwater;Parakeet with blue feathers;Sun in the sky
-2502#Alarm#5#Baseball batter’s box;Well-kept house;Baseball player hitting a ball;Couple inside a house-shaped frame
-2503#Raw#3#Giraffe against a white background;Traffic jam on the highway;Hand with uncut clawlike fingernails;Leggy woman stretching
-2504#Book#4#Stack of gold bars;Expensive sports car;Bag full of money;House in the tropics
-2505#Bass#4#Crowd of celebrating people;Cluster of flagpoles;Long table with many chairs;Collage of brightly colored pictures
-2506#Heavy#5#Dials measuring hose output;Woman cleaning the inside of a car;Empty and open can;Vacuum cleaner
-2507#Slow#4#Flaming frying pan;Dog under a sun umbrella;Couple relaxing in a sauna;Erupting volcano
-2508#Sausage#7#Close-knit group of people;Small women’s purse;Automobile gear shift;Small child grabbing adult’s leg
-2509#Luck#4#Three ice cubes;Man casually leaning against painted wall with skateboard;Glass of chilled lemon water;Young man with clipboard leaning against wall
-2510#Cold#4#Arctic landscape;Woman wound around metal pole;Flags flying on the breeze;Icy landscape with no people
-2511#Hit#3#People playing tug-of-war;Worker leading a pallet and boxes;Woman lifting weights;Horse toy with lead string
-2512#Fast#4#UPC (“bar”) code;Man allowing women to go first in line;Computer virus;Combination lock
-2513#High#4#Assorted colors of candy;Person editing sound files;Food in all colors of the rainbow;Spilled paint in different colors
-2514#Push#4#Chick just hatches from its egg;Small mother nagging larger son;Small man dragging the long hand of a clock backwards;“60 Minutes” logo
-2515#Old#3#Man bound by tight red ribbon;Tall, thin doorway;Oversize man in small office;Buildings that are extremely close together
-2516#Diving#6#Aquatic bird;Man trying to crouch in a box;Runner taking a low starting stance;Rubber bath toy
-2517#Soft#4#Diving board;Man diving into water;Numbered and colored balls;Cue sticks and balls on green table
-2518#Crane#5#Bald eagle;Stature of Liberty against New York City background;Burger, fries, and soda;Hundred-dollar bills
-2519#Dry#3#Ace of hearts;52 playing cards;Chiars on a cruise ship;Small chairs on a boat
-2520#Red#3#Piece of bread;Helping of cake;Wedge of lemon;Pieces of cucumber
-2521#Yellow#6#Cubes of frozen water;Iceberg;Woman eating a popsicle;Snow tires
-2522#Produce#7#Astronauts fixing solar panels;Large balloons in a parade;Decorated parade vehicles;Astronaut in zero gravity
-2523#Father#6#Warning sign of a person slipping;Baby playing in leaves;Thrill ride where people are dropped from a great height;Person on their way down from a big jump
-2524#Loud#4#Fighter with thick gloves on;Delivery man with a package;Two people in a fighting ring with gloves;Stressed woman packing up to move
-2525#Quiet#5#Smiling devil in a suit;Happy man with toupee;Man holding magnifying glass to his mouth;Young woman showing off her teeth
-2526#Light#5#Lightning striking a city;Sunny day in a field of flowers;Frozen plant in winter;Pouring rain making puddles
-2527#Trunk#5#Outstretched hand and wrist;Woman stretching her upper limbs;Knights in armor with swords;Woman holding a large axe
-2528#Animal#6#Person in suit making complex calculations;Children trying to solve numerical problems;Calculator next to pen and paper;Brightly colored abacus
-2529#Summer#6#Woman in traditional clothes with beer;Cars speeding down the Autobahn;Large castle in the midst of trees;Grand monuments in Berlin
-2530#Burnout#7#Apartment building being torn down;Crumbling old church in the country;The remains of a mansion;A building after a devastating fire
-2531#Charm#5#An expensive home in the country;Construction worker nailing a frame together;A shingled roof with windows and a chimney;A door in a brick wall
-2532#Hard#4#Children’s buckets and digging tools;Boardwalk on the beach;Dunes in the barren desert;The edge of the ocean with a snowman on vacation
-2533#Palm#4#Frozen plant in winter;Symmetrical snowflake in great detail;Leafless trees covered in snow;Snow tires on a car
-2534#Play#4#Woman in Mardi Gras attire;Dogs in hats and sunglasses;Young boy in cowboy hat with fake beard makeup;Woman in clown makeup and rainbow wig
-2535#Star#4#Picture of the Coliseum at dusk;Man pushing a boat down a canal;The Leaning Tower of Piza;Pizza with basil and tomatoes
-2536#Record#6#Italicized letter I in red;Letter A with gears;Grassy green capital E;Letter O carved out of wood
-2537#Big#3#Head of the Statue of Liberty;Hat worn by a king or queen;Silhouette of Queen Elizabeth;The very top of an old tree
-2538#Brain#5#Small, yapping dog;Heart carved into the side of a tree;Warped shape in the “skin” of a tree;Howling beagle in a park
-2539#Change#6#Bustling urban landscape near a tall mountain;White hand flashing a peace sign with a red dot;Sushi and sashimi platter;Woman in kimono near a cherry blossom tree
-2540#Lean#4#Judge banging gavel;A straight flush in poker;A woman wearing business attire;A man wearing business attire
-2541#Tie#3#Camping at the North Pole;American Indian outside a teepee;Father and son camping out;Circus performer outside the arena
-2542#Match#5#Crescent moon in the starry sky;Lit lamppost against a dark sky;Sleeping cartoon girl on a moon;Sleeping dog with an alarm clock and mask
-2543#Ghost#5#Maple leaves turning red;Woman on the beach with swimsuit on;Man and woman sledding down a snowy hill;Brightly colored flowers growing sunshine
-2544#Pilot#5#Twisted strip of film;Blonde woman winding her hair around her finger;Red-headed woman with lots of makeup and wavy hair;Many colors of rolled-up ribbon
-2545#Zombie#6#Man with his face covered in shaving cream;Woman covered in bubbles in the bathtub;Man rubbing soap bubbles into his hands;Person washing their hair with shampoo
-2546#Rope#4#Woman in black dress with her spine exposed;Man facing away from camera with no shirt on;Man seated on a chair away from the camera;Man trying to reverse in his car
-2547#Card#4#People putting shapes together to form the year 2013;People of many ages gathered together;Man with clock pointing at the camera accusingly;Thumbtacks in calendar marking dates
-2548#Gesture#7#The Arc de Triomphe;The Eiffel Tower against the Paris landscape;A dog with curly moustache, bottle of wine, and baguette;Statue flying a red, white, and blue flag
-2549#Green#5#Exhaust pipe emitting black smoke;Wheel with thick tires and shiny hubcaps;Close-up of an engine;Person behind the wheel of an automobile
-2550#Tip#3#Person cupping their hand behind their ear;Close-up of a nose;High resolution shot of an eye and eyelashes;Person smiling to show their lips and teeth
 2551#Chest#5#Family reflected in solar panels;Collection of old mobile phones;A single battery with positive and negative ends marked;Microscopic organisms
 2552#Trip#4#A person hitch-hicking;A triangle sign;Two people pointing;A man carrying books
 2553#Wide#4#Large container ship sailing with lots of freight;Woman with her arms spread apart;Long shot of a winding river;Man spreading his lips into an extra-big smile
@@ -2612,14 +1533,6 @@
 2601#Suit#4#Judge banging gavel;A straight flush in poker;A woman wearing business attire;A man wearing business attire
 2602#Tent#4#Camping at the North Pole;American Indian outside a teepee;Father and son camping out;Circus performer outside the arena
 2603#Night#5#Crescent moon in the starry sky;Lit lamppost against a dark sky;Sleeping cartoon girl on a moon;Sleeping dog with an alarm clock and mask
-2604#Seasons#7#Maple leaves turning red;Woman on the beach with swimsuit on;Man and woman sledding down a snowy hill;Brightly colored flowers growing sunshine
-2605#Curl#4#Twisted strip of film;Blonde woman winding her hair around her finger;Red-headed woman with lots of makeup and wavy hair;Many colors of rolled-up ribbon
-2606#Foam#4#Man with his face covered in shaving cream;Woman covered in bubbles in the bathtub;Man rubbing soap bubbles into his hands;Person washing their hair with shampoo
-2607#Back#4#Woman in black dress with her spine exposed;Man facing away from camera with no shirt on;Man seated on a chair away from the camera;Man trying to reverse in his car
-2608#Time#4#People putting shapes together to form the year 2013;People of many ages gathered together;Man with clock pointing at the camera accusingly;Thumbtacks in calendar marking dates
-2609#France#6#The Arc de Triomphe;The Eiffel Tower against the Paris landscape;A dog with curly moustache, bottle of wine, and baguette;Statue flying a red, white, and blue flag
-2610#Car#3#Exhaust pipe emitting black smoke;Wheel with thick tires and shiny hubcaps;Close-up of an engine;Person behind the wheel of an automobile
-2611#Face#4#Person cupping their hand behind their ear;Close-up of a nose;High resolution shot of an eye and eyelashes;Person smiling to show their lips and teeth
 2612#Cell#4#A solar panel;Several mobile phones;A double A battery;DNA sample
 2613#Repair#6#A cartoon of a broken flower vase;Someone fixing a car;An assortment of tools;Duct tape
 2614#Shake#5#A woman extending her hand;Different milkshakes;A martini and shaker;A handshake
@@ -2882,7 +1795,6 @@
 2871#Stretch#7#Latex glove;Yoga;A bend in the river;A railroad track
 2872#Security#8#Bodyguard;Police officer;A crystal ball;A video camera
 2873#Transfer#8#ATM;A bus sign;A wireless connection;A man with handcuffs
-2874#Round#5#A globe with international flags;Men drinking beer;Clocks;A pair of feet in a wrestling ring
 2875#Spit#4#A fire breather;shish kebab;The beach;A baby making a mess
 2876#Reaction#8#A woman doing an experiment;A volcano sign;People cheering;Skin rash
 2877#Empty#5#A cage;A brick wall;Theater seats;A set table
@@ -3011,7 +1923,6 @@
 3005#Teacher#7#assistant;guide;monitor;instructor
 3006#Rinse#5#scrub;wash;water;clean
 3007#Lose#4#scattered;reduce;dangling;place
-3008#Alcohol#7#beer;barrels;mouth-wash;spirits
 3009#Coverage#8#light;bridge;celular;power
 3010#Accident#8#mistake;crash;ouch;bio-hazard
 3011#Polish#6#wax;Polish flag;shine;sheen
@@ -3485,38 +2396,6 @@
 3480#Release#7#An archer with a bow;A movie clapboard that says premiere;A open birdcage with feathers;An unbuckle seat belt next to a yellow sign
 3481#Fabric#6#New York City at night;Apple pie;The Statue of Liberty;The American flag
 3482#Gallery#7#Festive villagers with llamas;Two llamas;A llama;A cartoon llama
-3483#Railway#7#A winding river;A river separating two towns;Reflection on water at night;The Eiffel Tower reflecting in water
-3484#Bathroom#8#A raft on a river in China;A raft with a sail;People white water rafting;People white water rafting
-3485#Zoo#3#Two men with fishing poles;A man fishing at sunset;A fish caught in a net;A bear with a fish in its mouth
-3486#Aviator#7#Two people running towards a finish line;Silhouettes of people racing horces;A woman swimming;Two men running on a track
-3487#Jagged#6#A pile of rubber tires;A bald eagle;A man combing his bald head;A woman with no hair
-3488#Camera#6#Three silhouettes with bagpipes;Men in kilts playing bagpipes;Three silhouettes with bagpipes;A bagpipe dreaming of the ocean
-3489#Truck#5#A woman with red lipstick and nail polish;An elegant woman with red lipstick;A woman at night surrounded by bats and a full moon;An elegant woman with red lipstick
-3490#Ufo#3#A man with a fish he caught;A reel of film;A person holding a fishing rod;A cartoon reel of film
-3491#Ballet#6#Ocean waves crashing on the beach;The coast;A globe showing the West;A surfer on the beach
-3492#Eat#3#An array of cartoon moustaches;Santa Clause;A man with a beard;A man with a beard
-3493#Cat#3#Ancient Greek ruins;A fist holding a lightning bolt;An ancient Greek painting;A man sitting on a cloud with lightning coming from his hand
-3494#Illegal#7#A man giving a thumbs up;Two people shaking hands;A man writing on a piece of paper;Two cartoon businessmen shaking hands
-3495#Ill#3#A man with a book and a microphone;A statue of William Shakespeare;A man whose head is dissolving into pieces of thought;A typewriter
-3496#Bone#4#A bracelet with a weather app open;A sunny field;A woman applying sunscreen;A woman with sunscreen in the shape of a sun on her back
-3497#Desert#6#A woman sitting in an airport terminal;A woman getting on a bus with a suitcase;An app icon with a plane taking off;A woman with a suitcase watching a plane take off
-3498#Frame#5#A nut being cracked;Pretzels in a bowl;Crackers next to some wheat;A robot trying to crack a safe
-3499#Gap#3#A woman receiving a key from a clerk;A well made bedroom;A well made bedroom;A tropical resort
-3500#Carnival#8#A bunch of basketballs falling;A boy hitting a bounce shot in tennis;A person jumping on a trampoline at sunset;Children bouncing on inflatable balls
-3501#Ache#4#Pastries with honey dripping from them;A bowl of yogurt with nuts and honey;A jar of honey;Bees on honeycomb
-3502#Feet#4#A Queen’s Guard;A group of Queen’s Guards;A group of soldiers;A soldier with a gun
-3503#Trapeze#7#Gears;Dentures;A before and after teeth whitening picture;A dog baring its teeth
-3504#Triangle#8#A cartoon man and woman dancing;Two cartoon horses running;A horse race;A horse running in the snow
-3505#Spy#3#A red drink;Green tea;A mug of tea with British memorabilia around it;Tea leaves
-3506#Bandage#7#A basket of yarn;Balls of yarn;Stacked bolts of yarn;A group of sheep
-3507#Sachet#6#A microscopic bug;A worm in an apple;A mosquito;A bug looked at through magnifying glass
-3508#Stadium#7#A bowl of jam at a breakfast table;A plate of croissants with a bowl of jam;Jars of fruit jelly;A traffic jam
-3509#Mineral#7#A display of fireworks;A bundle of fireworks;A rocket taking flight;A display of fireworks
-3510#Gym#3#Two garage doors;A garage;A man putting air in a tire;A mechanic working on a car
-3511#Hose#4#A Hawaiian print surfboard;A coastal city at night;A tropical coast with plumaria flowers;A plumaria
-3512#Seatbelt#8#A walkway onto a cruise ship;A platform onto a dock;A dock;An aisle in a theater
-3513#Alaska#6#A daffodil;A mountainous landscape;The British flag;The Red Dragon flag
-3514#Academy#7#A little brown bird;A little brown bird;A little brown bird;A little brown bird
 3515#Write#5#Butterfly on a pen;Person writing with a pen;Young girl holding a pencil;Woman using a pen
 3516#Archer#6#Cartoon girl drawing a bow;Cartoon girl shooting arrows;Target with an arrow through the center;Man aiming a bow and arrow
 3517#Salami#6#Pizza with meat and peppers;Dried meat sausage;Slice of dried, spiced meat;Cutting board with meats and herbs
