@@ -59,7 +59,7 @@ public class GalleryDisplayActivity extends ActionBarActivity {
 
     @AfterViews
     protected void fetchAds(){
-        AdRequest adRequest = new AdRequest.Builder().addTestDevice("0019a033276e3f").build();
+        AdRequest adRequest = new AdRequest.Builder().build();
         adview.loadAd(adRequest);
     }
 
