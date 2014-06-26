@@ -10,6 +10,7 @@ import com.peter.fourpicsoneword.SuperCheats;
 import com.peter.fourpicsoneword.adapter.SearchViewAdapter;
 import com.peter.fourpicsoneword.event.SearchByDescriptionEvent;
 import com.peter.fourpicsoneword.event.SearchByLettersEvent;
+import com.peter.fourpicsoneword.model.SearchHolder;
 
 import org.androidannotations.annotations.AfterInject;
 import org.androidannotations.annotations.AfterViews;
@@ -27,6 +28,13 @@ public class SearchDialogFragment extends DialogFragment{
         popup.setRetainInstance(true);
         popup.setStyle(DialogFragment.STYLE_NO_TITLE, android.R.style.Theme_Holo_Light_Dialog);
         return popup;
+    }
+
+    SearchHolder searchHolder;
+
+    public SearchDialogFragment lastSearch(SearchHolder searchHolder){
+        this.searchHolder = searchHolder;
+        return this;
     }
 
     @ViewById(R.id.tabs)

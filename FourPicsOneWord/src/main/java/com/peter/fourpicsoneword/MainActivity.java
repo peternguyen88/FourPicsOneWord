@@ -50,6 +50,11 @@ public class MainActivity extends ActionBarActivity {
         letterSelectAdapter.notifyDataSetChanged();
     }
 
+    @AfterInject
+    protected void setAutoRestart() {
+        Thread.setDefaultUncaughtExceptionHandler(new AutoRestartWhenCrash(this, MainActivity_.class));
+    }
+
     @ItemClick(R.id.card_list_number_of_letters)
     protected void listItemSelect(WordListItem item) {
         ContentProvider.currentIndex = item.getLength();

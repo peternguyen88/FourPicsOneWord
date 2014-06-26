@@ -80,9 +80,6 @@ public class GalleryImagesAdapter extends BaseAdapter implements Filterable {
                 results.count = filteredWords.size();
                 results.values = filteredWords;
 
-                if (constraint != null)
-                    // Show Result in a Crouton for better UX
-                    Crouton.makeText(context, "Found " + wordList.size() + " Image(s)", Style.INFO).show();
                 return results;
             }
 
@@ -90,6 +87,10 @@ public class GalleryImagesAdapter extends BaseAdapter implements Filterable {
             protected void publishResults(CharSequence constraint, FilterResults results) {
                 wordList = (List<Word>) results.values;
                 notifyDataSetChanged();
+
+                if (constraint != null)
+                    // Show Result in a Crouton for better UX
+                    Crouton.makeText(context, "Found " + wordList.size() + " Image(s)", Style.INFO).show();
             }
         };
     }

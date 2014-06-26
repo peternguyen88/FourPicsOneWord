@@ -2,6 +2,7 @@ package com.peter.fourpicsoneword;
 
 import com.google.common.collect.ArrayListMultimap;
 import com.google.common.collect.ListMultimap;
+import com.peter.fourpicsoneword.model.SearchHolder;
 import com.peter.fourpicsoneword.model.Word;
 import com.peter.fourpicsoneword.model.WordListItem;
 import com.peter.fourpicsoneword.utils.MatcherUtil;
@@ -58,6 +59,7 @@ public class ContentProvider {
         }
     }
 
+    public static SearchHolder searchHolder = new SearchHolder();
 
     public enum FilterMode {
         BY_DESCRIPTION, BY_LETTERS
